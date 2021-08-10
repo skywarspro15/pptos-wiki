@@ -1,4 +1,4 @@
-[`Home`](https://hexa-one.github.io/pptos-wiki/)
+> [Home](https://hexa-one.github.io/pptos-wiki/)
 ## Presentasia OS
 
 <a>
@@ -86,6 +86,16 @@ On October 1st, 2014. **Presentasia OS|Presentasia** cancelled all of his projec
 **Category:Rewrite**
 
 #### Downloads
+
+- [Presentasia Developer - OS 8 v. 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20Developer%20-%20OS%208%20v.%201.pptm)
+- [Presentasia OS 7 (v7.1)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%207%20(v7.1).ppsm)
+- [Presentasia OS 6.0 Squared](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%206.0%20Squared.ppsm)
+- [Presentasia OS 5.0 Kaleidoscope](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%205.0%20Kaleidoscope.ppsm)
+- [Presentasia OS 4.0 Matrix](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%204.0%20Matrix.ppsm)
+- [Presentasia OS 3.0 SnowBall](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%203.0%20SnowBall.ppsm)
+- [Presentasia OS 2.0 TreeFrog](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%20TreeFrog.ppsm)
+- [PresentasiaOSv1_0_1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/PresentasiaOSv1_0_1.ppsm)
+
 
 #### videos
 

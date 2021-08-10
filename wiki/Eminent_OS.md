@@ -1,4 +1,4 @@
-[`Home`](https://hexa-one.github.io/pptos-wiki/)
+> [Home](https://hexa-one.github.io/pptos-wiki/)
 ## Eminent OS
 
 ### Eminent OS
