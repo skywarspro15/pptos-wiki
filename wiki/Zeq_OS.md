@@ -101,5 +101,5 @@ At launch zeqOS chabazite had a security issue. The only build that is affected 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/zJvO6dAL_3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > zeqOS Natrolite PowerPoint OS | Movable Windows | Advanced PPTOS
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > zeqOS Makalu | PowerPoint Operating System(PPTOS)
