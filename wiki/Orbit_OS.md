@@ -21,6 +21,10 @@ The first Orbit OS release was code named "Goldsmith", with ties to its colour s
 |Notifications|Get notified on important events.|
 |Filing System - unlimited files|Store an unlimited amount of documents, edit them, delete them, etc. Import media and edit settings with files.|
 
+#### Downloads
+
+[ORBIT OS GoldSmith](https://1drv.ms/u/s!AvVW-0Dap3RQkxEJmMTpXbTFt4XZ?e=Y8q2OY)
+
 #### Screenshots
 
 ![1](https://user-images.githubusercontent.com/58103738/128825968-db9f7dcd-c1fd-4a93-9084-7b3958dfd72a.png)
