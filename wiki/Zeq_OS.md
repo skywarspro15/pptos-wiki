@@ -1,0 +1,85 @@
+<blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;">
+  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  </p>
+</blockquote>
+
+## zeqOS
+
+<a>
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128864791-d81ba4bc-c39c-4069-afb8-3a331f487bc3.png" />
+</a>
+
+|||
+|---|---|
+|**Programmed In**| PowerPoint VBA |
+|**OS Family**| zeqOS |
+|**First Release**| zeqOS Makalu |
+|**Latest OS Development**| ZT2 |
+|**Latest Stable Release**| zeqOS_Chabazite_B155_B02_U5_R |
+
+### zeqOS
+
+**zeqOS** is a family of PowerPoint OSes made by Zulo. It began with **zeqOS Makalu** the first zeqOS version. Zulo's latest version is calles **zeqOS Chabazite**.
+
+### zeqOS Makalu
+
+The first version of zeqOS to be released to the public. It featured a Account system, File Manager, Word Editor, View&Play and a Internet Browser.
+
+### zeqOS Natrolite
+
+ZeqOS Natrolite was one of the first pptos's ever to have movable windows with activeX elements. In File Manager you could open and edit files. All of that in only 1 slide and a size of only 4.55mb. In total there were 14sp (Service Packs).
+
+### zeqOS Chabazite
+
+zeqOS chabazite builds ontop of Natrolite with a new File Manager, Notepad, Bubbly the virtual assistant, zeqOS Store, The new coding language calles ZCS, zeqOS Studio where you can write programs in ZCS, zeqOS Update.
+
+At launch zeqOS chabazite had a security issue. The only build that is affected is **zeqOS_Chabazite_RTM3** (first public build).
+
+
+**zeqOS Chabazite support**
+
+**Full support** (Update Packs, small updates, etc): Until 20th August 2021
+**Mainstream support** (Making it available to public, downloads, updates, etc): Until 30th May 2022
+**Last-Time Support** (Casual bug fixes): Until 1st January 2023
+
+#### Downloads
+
+
+- zeqOS Chabazite
+  - []
+
+- zeqOS Natrolite
+  - []
+
+- zeqOS Makalu
+  - []
+
+#### Screenshots
+
+![11](https://user-images.githubusercontent.com/58103738/128869859-fdedc6ac-e8d3-4d0c-ac48-30a10a38440c.png)
+> zeqOS Chabazite Setup
+
+![12](https://user-images.githubusercontent.com/58103738/128870042-a345f5bd-14c7-4264-a1bf-92b18980828a.png)
+> zeqOS Chabazite Desktop
+
+![13](https://user-images.githubusercontent.com/58103738/128869962-5db0d2b9-0515-474c-baaa-5463871351d3.png)
+> zeqOS Chabazite File Manager
+
+![21](https://user-images.githubusercontent.com/58103738/128869679-0e2ce490-e576-4d86-9b20-a84f779006d4.png)
+> zeqOS Natrolite Setup
+
+![22](https://user-images.githubusercontent.com/58103738/128869506-6445733c-c61b-4b6e-993c-6b71826c3913.png)
+> zeqOS Natrolite Desktop
+
+![23](https://user-images.githubusercontent.com/58103738/128869747-953b10fb-91f8-4fc4-bf66-3b4b077b6fb0.png)
+> zeqOS Natrolite File Manager
+
+![31](https://user-images.githubusercontent.com/58103738/128869121-b1139f38-e584-4dd3-bc71-8990749f32cd.png)
+> zeqOS Makalu Desktop
+
+![32](https://user-images.githubusercontent.com/58103738/128869270-d9006d67-8ad3-4eed-9336-3c6c7b187ddd.png)
+> zeqOS Makalu File Manager
+
+![33](https://user-images.githubusercontent.com/58103738/128869370-ebda876e-25f4-4f85-b2d4-e66789d9c1f1.png)
+> zeqOS Makalu Word Editor
