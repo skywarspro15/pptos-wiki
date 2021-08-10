@@ -47,13 +47,22 @@ At launch zeqOS chabazite had a security issue. The only build that is affected 
 
 
 - zeqOS Chabazite
-  - []
+  - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)
+  - [zeqOS_Chabazite_RTM-SECURE_U2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE_U2.pptm)
+  - [zeqOS_Chabazite_RTM-SECURE](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE.pptm)
 
 - zeqOS Natrolite
-  - []
+  - [Build34_B01_SP14](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
+  - [Build34_B01_SP13](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP13.pptm)
+  - [Build34_B01_SP12](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP12.pptm)
+  - [Build34_B01_SP10](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP10.pptm)
+  - [Build34_B01_SP9](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP9.pptm)
+  - [Build34_B01_RTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_RTM.pptm)
 
 - zeqOS Makalu
-  - []
+  - [zeqOSMakaluRTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOSMakaluRTM.pptm)
 
 #### Screenshots
 
@@ -83,3 +92,14 @@ At launch zeqOS chabazite had a security issue. The only build that is affected 
 
 ![33](https://user-images.githubusercontent.com/58103738/128869370-ebda876e-25f4-4f85-b2d4-e66789d9c1f1.png)
 > zeqOS Makalu Word Editor
+
+#### Videos
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/gsUsA7E4_bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> zeqOS Chabazite | Everything new | PowerPoint OS
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/zJvO6dAL_3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> zeqOS Natrolite PowerPoint OS | Movable Windows | Advanced PPTOS
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> zeqOS Makalu | PowerPoint Operating System(PPTOS)
