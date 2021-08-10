@@ -4,3 +4,4 @@
 
 - [Orbit OS](wiki/Orbit_OS)
 - [Presentasia OS](wiki/Presentasia_OS)
+- [Eminent OS](wiki/Eminent_OS)

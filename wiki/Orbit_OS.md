@@ -1,4 +1,4 @@
-[`Home`](/)
+[`Home`](https://hexa-one.github.io/pptos-wiki/)
 ## Orbit OS
 
 Project: PowerPoint is a PowerPoint OS developer whose most recent work started in December 2018.
@@ -29,7 +29,9 @@ The first Orbit OS release was code named "Goldsmith", with ties to its colour s
 #### Screenshots
 
 ![1](https://user-images.githubusercontent.com/58103738/128825968-db9f7dcd-c1fd-4a93-9084-7b3958dfd72a.png)
+> ORBIT OS
 
 #### Video
 
 <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/V0w_HfFNYiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> ORBIT OS (PowerPoint OS)- RELEASE

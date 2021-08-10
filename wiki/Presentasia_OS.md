@@ -1,4 +1,4 @@
-[`Home`](/)
+[`Home`](https://hexa-one.github.io/pptos-wiki/)
 ## Presentasia OS
 
 <a>
@@ -52,10 +52,64 @@ Presentasia OS 6.0 Squared ist die sechste Presentasia OS-Version. Diese Version
 Presentasia OS 7 is the seventh version of Presentasia OS. It still contains elements that were featured in prior versions such as limited wallpapers, and the interface. This version ditched the style of 6.0 and went back to Matrix UI like all prior version of Presentasia OS (excluding 6.0). It was also the first Presentasia OS to remove start buttons or add-ins for in web apps.
 
 Presentasia OS 7 is one of the only versions of Presentasia OS that doesn't have a version name. The 7.1 update addresses issues with changing the background.
-### Presentasia OS 8.0 Boundless (latest)
+### Presentasia OS 8.0 Boundless
 Presentasia OS 8.0 Boundless is the latest and most popular version of Presentasia OS with over 2000 downloads. In this version, Calibri Light is the primary font, Mail and Writasia are replaced by WeMail and WeWrite, Calculator is replaced by WeCalculate, and the InfoTab is renamed the PresTab. This version also highlights the return of Flatview mode (which was previously used from Presentasia OS 2-3) as a desktop mode. This version of Presentasia OS also features Smart Desktops (memory of the origin of a program's opening; whether it be the MatrixView desktop, the FlatView Desktop, or any other menu). Presentasia OS 8 was also the first version of Presentasia OS to have the macro checkpoint upon startup to determine if macros are enabled (Press "Enter the OS" if you have macros enabled). Unlike prior text editors included with Presentasia OS, WeWrite requires the user to save their documents.
 
 There was going to be an update to Presentasia OS 8.0 Boundless but was cancelled early on in development due to lack of third party support. This is confirmed by tweets Presentasia sent (@Presentasia_).
 
-### Presentasia OS 9
-On June 24, 2014, Presentasia Technologies posted design concepts of Presentasia OS 9 to the PPTOS Network and other social media accounts. According to screenshots, it is known that Presentasia OS 9 will have a new flat design rather than the old designs from Presentasia OS 7 and 8. It has been confirmed that all features from the cancelled Eminent OS project will be ported over to Presentasia OS 9. Presentasia is now closing operation.
+### Presentasia OS 9 Pavilion (latest)
+
+**What's that?**
+
+Presentasia OS 9 Pavilion is a PPTOS made by **Presentasia Technologies|Presentasia Technologies.** At first, OS 9 wasn't supposed to come this early, OS 9's development was supposed to come after Eminent's release. But, unfortunately, Eminent has been cancelled. According to Presentasia, that Eminent's features will come to OS 9, adding new features as well as replacing old ones. For example, WeWrite is replaced by Broadsheet Office, and offline integration might be in OS 9.
+
+Pavilion's UI is called Matrix UI. The name might be also to the reference to '''(Presentasia) OS 4.0 codename Matrix''', which was released back in 2012. Matrix UI seems to look nothing like OS 4 Matrix where OS 4 was based on a grey theme (Sleek Silver), and Matrix UI is more vibrant with colors and a stunning flat design. It seems to be influenced by Apple iOS 7/8 (icons) and Windows 8 (notification style). The design of Matrix UI was taken directly from Presentasia's Mobile concept, posted a months ago.
+
+In this version Presentasia Technologies introducing long-shadow and flat icons. Open Sans has also scrapped in OS 9, replaced by some other fonts. The layout from the previous Presentasia OSes still remains in OS 9. Author stated that Presentasia OS 9 is the most important version of the **Presentasia OS|Presentasia OS family** because there are 9 squares in its logo.
+
+**Features (might not actual, this is only the set of the concept features)**
+
+- Offline integration (previously in Eminent);
+- New fonts, replacing Open Sans;
+- Same old UI with the vibrant new look;
+- Notification center;
+- Music app (from Eminent);
+- Broadsheet (replacing WeWrite);
+- YouTube App and other web apps;
+- Simple, flat design (Matrix UI);
+- **PowerPoint OS Network|PPTOSN** app (This is the first **Presentasia OS** to include the Network app).
+
+**Cancellation**
+
+On October 1st, 2014. **Presentasia OS|Presentasia** cancelled all of his projects including OS9. And also he is resigning from PPTOSN. And Also he passing **PowerPoint OS Network|PPTOSN** to **Midtown OS|Midtown Technologies**. People are really upset that he has left PPTOSN and has stopped making OSes.
+**Category:Articles**
+**Category:Rewrite**
+
+#### Downloads
+
+#### videos
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/LszP_jrtCqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 1.0.1
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/iG0jbnSL_hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 2.0 TreeFrog
+
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/hM1dHThv8AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 3.0 SnowBall
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/rAJvi1JhufM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 4.0 Matrix
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/TaMkRvu3WqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentaisa OS 5.0 Kaleidoscop
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/60pNHptrw70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 6.0 Squared
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/-9b6FrJEs_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 7 (v7.1)
+
+<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/ucTB7ilGmoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Presentasia OS 8 Boundless
