@@ -6,7 +6,7 @@
 
 ## Archive
 
-<blockquote style="margin: 0 230px 20px 230px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid #069;background: linear-gradient(#f1f1f1, #DEDEDE 15px);">
+<blockquote style="margin: 0 230px 20px 230px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid rgb(0,102,153,0.3);background: linear-gradient(#f1f1f1, #DEDEDE 15px);">
   <p style=""><a style="font-size: 19px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive 10/08/2021</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
