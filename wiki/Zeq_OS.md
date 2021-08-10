@@ -48,6 +48,7 @@ At launch zeqOS chabazite had a security issue. The only build that is affected 
 
 - zeqOS Chabazite
   - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U4_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U4_R.pptm)
   - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
   - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)
   - [zeqOS_Chabazite_RTM-SECURE_U2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE_U2.pptm)
