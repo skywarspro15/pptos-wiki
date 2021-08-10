@@ -1,3 +1,4 @@
+[`Home`](/)
 ## Orbit OS
 
 Project: PowerPoint is a PowerPoint OS developer whose most recent work started in December 2018.
@@ -31,4 +32,4 @@ The first Orbit OS release was code named "Goldsmith", with ties to its colour s
 
 #### Video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V0w_HfFNYiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/V0w_HfFNYiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
