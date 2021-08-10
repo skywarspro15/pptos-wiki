@@ -20,7 +20,7 @@
 
 ### zeqOS
 
-**zeqOS** is a family of PowerPoint OSes made by Zulo. It began with **zeqOS Makalu** the first zeqOS version. Zulo's latest version is calles **zeqOS Chabazite**.
+**zeqOS** is a family of PowerPoint OSes made by Zulo. It began with **zeqOS Makalu** the first zeqOS version. Zulo's latest version is called **zeqOS Chabazite**.
 
 ### zeqOS Makalu
 
