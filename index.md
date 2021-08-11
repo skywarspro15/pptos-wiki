@@ -10,7 +10,7 @@
 
 - Nestor Page
   - [Nestor OS](wiki/Nestor_OS)
-- OLias
+- Olias
   - [Aster OS](wiki/Aster_OS)
 - Presentasia
   - [Presentasia OS](wiki/Presentasia_OS)
