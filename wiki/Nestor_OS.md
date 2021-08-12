@@ -10,14 +10,14 @@
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128846551-3907bd6a-b800-41b2-953d-fd09dc7d765c.png" />
 </a>
 
-|||
-|---|---|
-|**Company Slogan**| The best? No, even more than that. |
-|**Formed**| April 26th 2013 (as a YouTube Channel) September 11th 2014 (nestorOS versions) |
+|                    |                                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| **Company Slogan** | The best? No, even more than that.                                             |
+| **Formed**         | April 26th 2013 (as a YouTube Channel) September 11th 2014 (nestorOS versions) |
 
 ### Nestor Page
 
-**Nestor Page** is a Spanish PPT OS small company, founded on April 26th 2013 as a YouTube Channel, but started making wireframes on September 11th 2014. The wireframes were Low-End only before, but now they are Mid-Range (Standard). Low End wireframes started again in 2019 with the release of nestorOS 19.04.1 Lite
+**Nestor Page** is a small Spanish PPT OS company, founded on April 26th 2013 as a YouTube channel. They started making wireframes on September 11th 2014. The wireframes were low-end only before, but now they are mid-range (standard). Low-end wireframes started again in 2019 with the release of nestorOS 19.04.1 Lite.
 
 It was reset twice. The first one was on December 2015, and the second one being on April 2017.
 

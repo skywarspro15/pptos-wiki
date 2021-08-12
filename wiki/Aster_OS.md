@@ -10,21 +10,21 @@
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/129057670-1a86fcac-1d22-45f9-a5ab-f565a06c7072.png" />
 </a>
 
-|||
-|---|---|
-|**Programmed In**| PowerPoint VBA |
-|**OS Family**| AsterOS |
-|**First Release**| AsterOS 1? |
-|**Latest OS Development**| / |
-|**Latest Stable Release**| AsterOS 5 |
+|                           |                |
+| ------------------------- | -------------- |
+| **Programmed In**         | PowerPoint VBA |
+| **OS Family**             | AsterOS        |
+| **First Release**         | AsterOS 1?     |
+| **Latest OS Development** | /              |
+| **Latest Stable Release** | AsterOS 5      |
 
 ### AsterOS
 
-**Olias** was the first major pptos youtuber. He made a pptos calles **AsterOS** that whas loved by the design. In total there are 4 offical know releases of AsterOS: 2, 3, 4 and 5.
+**Olias** was the first major PPTOS YouTuber. He made a PPTOS calles **AsterOS** that was loved by the design. In total, there are 4 offical known releases of AsterOS: 2, 3, 4 and 5.
 
-On **8 dec. 2019 Project PowerPoint** released a video about the termination of olias' account on youtube. Later olias would make a new account which is primarily used for his own music.
+On **December 8th 2019**, **Project PowerPoint** released a video about the termination of Olias' account on YouTube. Later Olias would make a new account, which is primarily used for his own music.
 
-Olias stated in a live stream that he loved the pptos community but he also loved making music and that lead to his music branded channel.
+Olias stated in a live stream that he loved the PPTOS community, but he also loved making music, and that lead to his music branded channel.
 
 #### Downloads
 

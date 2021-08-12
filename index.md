@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## Welcome to the PPTOS-WIKI
+## Welcome to the PPTOS Wiki
 
 ### Explore
 
@@ -15,7 +15,7 @@
 - Presentasia
   - [Presentasia OS](wiki/Presentasia_OS)
   - [Eminent OS](wiki/Eminent_OS)
-- Project Powerpoint
+- Project: PowerPoint
   - [Orbit OS](wiki/Orbit_OS)
 - Zulo
-  - [Zeq OS](wiki/Zeq_OS)
+  - [zeqOS](wiki/Zeq_OS)
