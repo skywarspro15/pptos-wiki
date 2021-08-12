@@ -10,36 +10,36 @@
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128864791-d81ba4bc-c39c-4069-afb8-3a331f487bc3.png" />
 </a>
 
-|||
-|---|---|
-|**Programmed In**| PowerPoint VBA |
-|**OS Family**| zeqOS |
-|**First Release**| zeqOS Makalu |
-|**Latest OS Development**| ZT2 |
-|**Latest Stable Release**| zeqOS_Chabazite_B155_B02_U5_R |
+|                           |                               |
+| ------------------------- | ----------------------------- |
+| **Programmed In**         | PowerPoint VBA                |
+| **OS Family**             | zeqOS                         |
+| **First Release**         | zeqOS Makalu                  |
+| **Latest OS Development** | ZT2                           |
+| **Latest Stable Release** | zeqOS_Chabazite_B155_B02_U5_R |
 
 ### zeqOS
 
-**zeqOS** is a family of PowerPoint OSes made by Zulo. It began with **zeqOS Makalu** the first zeqOS version. Zulo's latest version is called **zeqOS Chabazite**.
+**zeqOS** is a family of PowerPoint OSes made by Zulo. It began with **zeqOS Makalu**, the first zeqOS version. Zulo's latest version of zeqOS is called **zeqOS Chabazite**, named after the [mineral](https://en.wikipedia.org/wiki/Chabazite).
 
 ### zeqOS Makalu
 
-The first version of zeqOS to be released to the public. It featured a Account system, File Manager, Word Editor, View&Play and a Internet Browser.
+zeqOS Makalu was the first version of zeqOS to be released to the public. It featured an account system, a file manager, a word editor, View&Play and an Internet browser.
 
 ### zeqOS Natrolite
 
-ZeqOS Natrolite was one of the first pptos's ever to have movable windows with activeX elements. In File Manager you could open and edit files. All of that in only 1 slide and a size of only 4.55mb. In total there were 14sp (Service Packs).
+zeqOS Natrolite was one of the first PPTOS's ever to have movable windows with ActiveX elements. In the File Manager you could open and edit files. All of that in only 1 slide, and a size of only 4.55MB. In total there were 14 SP (Service Packs).
 
 ### zeqOS Chabazite
 
-zeqOS chabazite builds ontop of Natrolite with a new File Manager, Notepad, Bubbly the virtual assistant, zeqOS Store, The new coding language calles ZCS, zeqOS Studio where you can write programs in ZCS, zeqOS Update.
+zeqOS Chabazite builds ontop of Natrolite with a new File Manager, Notepad, Bubbly the virtual assistant, zeqOS Store, the new coding language called ZCS, zeqOS Studio where you can write programs in ZCS, and zeqOS Update.
 
-At launch zeqOS chabazite had a security issue. The only build that is affected is **zeqOS_Chabazite_RTM3** (first public build).
+At launch zeqOS Chabazite had a security issue. The only build that is affected is **zeqOS_Chabazite_RTM3** (the first publicly available build).
 
 
 **zeqOS Chabazite support**
 
-**Full support** (Update Packs, small updates, etc): Until 20th August 2021
+**Full support** (Update packs, small updates, etc): Until 20th August 2021
 **Mainstream support** (Making it available to public, downloads, updates, etc): Until 30th May 2022
 **Last-Time Support** (Casual bug fixes): Until 1st January 2023
 
@@ -98,10 +98,10 @@ At launch zeqOS chabazite had a security issue. The only build that is affected 
 #### Videos
 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/gsUsA7E4_bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Chabazite | Everything new | PowerPoint OS
+> zeqOS Chabazite &#124; Everything new &#124; PowerPoint OS
 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/zJvO6dAL_3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Natrolite PowerPoint OS | Movable Windows | Advanced PPTOS
+> zeqOS Natrolite PowerPoint OS &#124; Movable Windows &#124; Advanced PPTOS
 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Makalu | PowerPoint Operating System(PPTOS)
+> zeqOS Makalu &#124; PowerPoint Operating System(PPTOS)

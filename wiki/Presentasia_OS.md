@@ -10,14 +10,14 @@
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128830356-37a1569c-f4fc-4e0f-9aa3-222f8ddf55f0.png" />
 </a>
 
-|||
-|---|---|
-|**Programmed In**| PowerPoint VBA |
-|**OS Family**| Presentasia OS |
-|**First Release**| Presentasia OS 1.0 |
-|**Latest OS Development**| Unknown |
-|**Latest Stable Release**| Presentasia OS 8 Boundless |
-|**Company Website**|https://www.presentasia.net/|
+|                           |                              |
+| ------------------------- | ---------------------------- |
+| **Programmed In**         | PowerPoint VBA               |
+| **OS Family**             | Presentasia OS               |
+| **First Release**         | Presentasia OS 1.0           |
+| **Latest OS Development** | Unknown                      |
+| **Latest Stable Release** | Presentasia OS 8 Boundless   |
+| **Company Website**       | https://www.presentasia.net/ |
 
 ### Presentasia OS
 

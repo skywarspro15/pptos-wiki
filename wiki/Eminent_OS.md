@@ -7,10 +7,12 @@
 ## Eminent OS
 
 ### Eminent OS
-**Eminent OS** is the upcoming new OS by **Presentasia Technologies**, the company who creates the well-known Presentasia OS. It is not released yet. Eminent OS is expected to be released at 2014. It was recognized for its simple and fluid user interface. It will be the most realistic PPTOS ever created by Presentasia Technologies. However, Eminent OS was cancelled on June 21, 2014 by Presentasia, and the company said that all the features of Eminent (mentioned below) will be moved to Presentasia OS 9, the next Presentasia OS series.
+**Eminent OS** is the upcoming new OS by **Presentasia Technologies**, the company who creates the well-known Presentasia OS. It is not released yet. Eminent OS is expected to be released in 2014. It was recognized for its simple and fluid user interface. It will be the most realistic PPTOS ever created by Presentasia Technologies. However, Eminent OS was cancelled on June 21, 2014 by Presentasia, and the company said that all the features of Eminent (mentioned below) will be moved to Presentasia OS 9, the next Presentasia OS series.
 
 ### Features
-Eminent OS was the first PPTOS to have Dynamic Desktops (everything from the applications menu to the search bar is on one slide, everchanging). The clock in the OS wasn't a VBA label, instead, it was object-manipulated.
+Eminent OS was the first PPTOS to have Dynamic Desktops (everything from the applications menu to the search bar is on one slide, everchanging). 
+
+The clock in the OS wasn't a VBA label. Instead, it was object-manipulated.
 
 Apps in Eminent OS include: Internet Atlas, E-mail, Broadsheet, Music, and Media.
 
