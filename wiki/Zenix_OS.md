@@ -39,7 +39,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <img src="https://user-images.githubusercontent.com/58103738/129167796-70aabc64-396d-4fe6-9a90-e1d5919dd933.png" alt="11">
   <p>Zenix Os Star Strike setup beta</p>
   <img src="https://user-images.githubusercontent.com/58103738/129167834-b6ce9a3f-ab8d-4288-9553-4c9d8848b627.png" alt="11">
-  <p>Zenix OS Star strik desktop beta</p>
+  <p>Zenix OS Star strike desktop beta</p>
   <img src="https://user-images.githubusercontent.com/58103738/129167889-46beab1a-e8b1-4862-a309-9d3f3d835d52.png" alt="11">
   <p>Zenix Os star strike menu beta</p>
   <img src="https://user-images.githubusercontent.com/58103738/129167926-63411756-e614-48f0-9ce7-a52b627c6670.png" alt="11">
