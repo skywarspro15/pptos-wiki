@@ -21,6 +21,10 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   A PowerPoint OS that was abandoned.
   - [Eminent OS](wiki/Eminent_OS)
   Eminent OS was never fully developed and abandoned.
+  - Bence
+  - [Inter OS](wiki/Inter_OS)
+  - Nexton (Wiki page under development)
+  - Exon (Wiki page under development)
 - Project: PowerPoint
   - [Orbit OS](wiki/Orbit_OS)
   Orbit OS is a PowerPoint OS with a lot of features.
@@ -34,9 +38,5 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - Windsoft Technology
   - [Wind OS](wiki/Wind_OS)
-- Bence
-  - [Inter OS](wiki/Inter_OS)
-  - Nexton (Wiki page under development)
-  - Exon (Wiki page under development)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
