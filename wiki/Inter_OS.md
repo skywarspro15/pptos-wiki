@@ -13,7 +13,7 @@
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
-| **Made By**         | Veress Bence Gyula                |
+| **Made By**         | Bence                |
 | **OS Family**            |                               Inter OS|
 | **First Release**         |                               Never|
 | **Latest OS Development** |                               Inter OS|
