@@ -6,7 +6,7 @@
 
 ## zeqOS Natrolite Build25_B01
 
-| <a href="https://user-images.githubusercontent.com/58103738/130407689-e460dfc4-ca00-4057-a5d0-2c370547194e.png"><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130407689-e460dfc4-ca00-4057-a5d0-2c370547194e.png" /></a>| <a href="https://user-images.githubusercontent.com/58103738/130409471-cc288220-637b-4b3d-a172-f1876567bac6.png"><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130409471-cc288220-637b-4b3d-a172-f1876567bac6.png" /></a>|
+| <a href="https://user-images.githubusercontent.com/58103738/130407689-e460dfc4-ca00-4057-a5d0-2c370547194e.png"><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130407689-e460dfc4-ca00-4057-a5d0-2c370547194e.png" /></a>| <a href="https://user-images.githubusercontent.com/58103738/130409471-cc288220-637b-4b3d-a172-f1876567bac6.png"><img height="150" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130409471-cc288220-637b-4b3d-a172-f1876567bac6.png" /></a>|
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | zeqOS Natrolite               |
