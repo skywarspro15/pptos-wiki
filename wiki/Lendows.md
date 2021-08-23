@@ -51,6 +51,12 @@ The first public Beta version of Lendows is the Beta 0.6 and was all based on Wi
         - [Lendows 4 Pro](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/4/Lendows%204%20Pro.ppsm)
         - [Lendows 4 Home](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/4/Lendows%204%20Home.ppsm)
 
+    - Lendows ND (NewDesign)
+        - [Lendows ND 4 (v5.3)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%204.ppsm)
+        - [Lendows ND 3 (v5.2)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%203.ppsm)
+        - [Lendows ND 2 (v5.1)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%202.ppsm)
+        - [Lendows ND (v5.0)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND.ppsm)
+
     - Lendows 3
         - [Lendows 3.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203.2.ppsm)
         - [Lendows 3.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203%20.1.ppsm)
@@ -63,12 +69,6 @@ The first public Beta version of Lendows is the Beta 0.6 and was all based on Wi
         - [Lendows 1.2](http://download1980.mediafire.com/oz4lpe9mzkgg/24xr0n9q3h5wvj4/Lendows+1.2.ppsm)
         - [Lendows 1.1](http://download944.mediafire.com/kghoup82vobg/ex07kixthh6xbme/Lendows+1.1.ppsm)
         - [Lendows 1.0](http://download1979.mediafire.com/hfxmw5f5kk2g/igqp8ly98x6i44m/Lendows+1.0.ppsm)
-
-    - Lendows ND (NewDesign)
-        - [Lendows ND 4 (v5.3)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%204.ppsm)
-        - [Lendows ND 3 (v5.2)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%203.ppsm)
-        - [Lendows ND 2 (v5.1)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND%202.ppsm)
-        - [Lendows ND (v5.0)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/nd/Lendows%20ND.ppsm)
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
