@@ -22,9 +22,9 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   - [Eminent OS](wiki/Eminent_OS)
   Eminent OS was never fully developed and abandoned.
   - Bence
-  - [Inter OS](wiki/Inter_OS)
-  - Nexton (Wiki page under development)
-  - Exon (Wiki page under development)
+   - [Inter OS](wiki/Inter_OS)
+   - Nexton (Wiki page under development)
+   - Exon (Wiki page under development)
 - Project: PowerPoint
   - [Orbit OS](wiki/Orbit_OS)
   Orbit OS is a PowerPoint OS with a lot of features.
