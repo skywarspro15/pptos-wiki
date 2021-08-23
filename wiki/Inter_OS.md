@@ -18,7 +18,7 @@
 | **Latest OS Development** |                               Inter OS|
 | **Latest Stable Release** |                               Cancelled|
 
-### Inter OS
+### The story
 
 Inter OS is my long-long first PPTOS project...
 The first creation of Inter OS was created in 2018 in PowerPoint 2003 with over 380+ slides and terrible UI. Unluckily, I lost the file and I didn't make anything until early 2020, when I had online classes, then I joined to the PPTOS Community. So, in 2020, I started working on the second version of Inter OS, but then, PowerPoint could not open the file, so I had to restart again, and after the 3rd try, I worked on the 4th Inter OS, but of course, in newer PowerPoint. I got some negative feedback on the UI, because that wasn't the best and with my unique desktop design... and a startup sound made by me in MuseScore, and many apps were ready, but I decided to not continue it, because useless, and then I did my biggest mistake ever... I **removed** the file :(
