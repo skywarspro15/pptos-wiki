@@ -36,7 +36,7 @@ About 1.0.
 #### Downloads
 
 - YourOS
-    - [YourOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Your_OS/YourOS_1.0.pptm/
+    - [YourOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Your_OS/YourOS_1.0.pptm/)
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
