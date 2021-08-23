@@ -35,7 +35,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - Windsoft Technology
   - [Wind OS](wiki/Wind_OS)
 - Veress Bence Gyula
-  - [Inter OS](wiki/Inter_OS)
+  - [Inter OS](wiki/Inter_OS.md)
   - Nexton (Wiki page under development)
   - Exon (Wiki page under development)
 
