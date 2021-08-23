@@ -29,7 +29,7 @@ So I started Nexton, which is my another cancelled PPTOS.
 
 **YouTube links:**
 
->[Inter OS video (by me)](https://www.youtube.com/watch?v=rZgAj4voiX0)
+>[Inter OS video (by me)](https://www.youtube.com/watch?v=rZgAj4voiX0)\n
 >[Inter OS startup sound (by me)](https://www.youtube.com/watch?v=nV_vqFphz6Y)
 
 ---
