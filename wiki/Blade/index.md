@@ -7,7 +7,7 @@
 ## Blade
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://www.baltana.com/files/wallpapers-16/Dark-Black-Background-HD-Wallpaper-40749.jpg" />
+  <img align="left" height="100" alt="pfp" src="https://raw.githubusercontent.com/swordcube/pptos-wiki/gh-pages/files/Blade/tkmn.png" />
 </a>
 
 |                           |                                  |
@@ -35,7 +35,7 @@ This version is currently unreleased.
 #### Screenshot
 
 > Blade 1.0 Desktop
-![1](https://www.baltana.com/files/wallpapers-16/Dark-Black-Background-HD-Wallpaper-40749.jpg)
+![1](https://raw.githubusercontent.com/swordcube/pptos-wiki/gh-pages/files/Blade/tkmn.png)
 
 
 #### Downloads
