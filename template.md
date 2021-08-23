@@ -7,7 +7,7 @@
 ## YourOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130485729-625c6986-0365-4286-840c-0641768f069e.png" />
+  <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
 </a>
 
 |                           |                               |
@@ -29,14 +29,14 @@ About 1.0.
 
 #### Screenshot
 
-> WindOS 1.0 Setup
-![1](https://user-images.githubusercontent.com/58103738/130485926-a91ca18e-3cf6-4618-a285-5a1677953026.png)
+> YourOS 1.0 Desktop
+![1](https://upload.wikimedia.org/wikipedia/commons/d/d1/VirtualBox_HaikuOS_R1B2_54154_111_ENG_01_03_2021_18_32_37.png)
 
 
 #### Downloads
 
 - YourOS
-    - [YourOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
+    - [YourOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Your_OS/YourOS_1.0.pptm/
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
