@@ -103,7 +103,7 @@
 - Lendows
     - Lendows 6
         - [Lendows 6.2 (Anniversary Update)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206_2.ppsm)
-        - [Lendows 6.2 English (Anniversary Update)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206.1%20ENG.ppsm)
+        - [Lendows 6.2 English (Anniversary Update)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206_2%20ENG%20VER.ppsm)
         - [Lendows 6 Pro English](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206%20Pro%20English.zip)
         - [Lendows 6 Pro (pt/br)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206%20Pro.zip)
         - [Lendows 6.1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/6/Lendows%206_1_1.zip)
