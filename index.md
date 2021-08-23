@@ -30,5 +30,5 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - Zulo
   - [zeqOS](wiki/Zeq_OS/)
   A powerful but lightweight PowerPoint OS.
-- PPTGAMES
+- PPTGames
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
