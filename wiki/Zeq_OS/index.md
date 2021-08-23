@@ -30,16 +30,12 @@ zeqOS Makalu was the first version of zeqOS to be released to the public. It fea
 
 zeqOS Natrolite was one of the first PPTOS's ever to have movable windows with ActiveX elements. In the File Manager you could open and edit files. All of that in only 1 slide, and a size of only 4.55MB. In total there were 14 SP (Service Packs).
 
-#### builds
-
-- [Build25_B01](Build25_B01)
-
 ### zeqOS Chabazite
 
-zeqOS Chabazite builds ontop of Natrolite with a new File Manager, Notepad, Bubbly the virtual assistant, zeqOS Store, the new coding language called ZCS, zeqOS Studio where you can write programs in ZCS, and zeqOS Update.
+zeqOS Chabazite started as Rhodonite, a version cancelled. In late 2020, the development was reset to a new system-code called Zento(previous system-code was NT).
+zeqOS Chabazite has a new File Manager and File System, Notepad, Bubbly(the virtual assistant), zeqOS Store, the new coding language called ZCS, zeqOS Studio where you can write programs in ZCS, Calculator, Run, zeqOS Settings and zeqOS Update as part of its services.
 
 At launch zeqOS Chabazite had a security issue. The only build that is affected is **zeqOS_Chabazite_RTM3** (the first publicly available build).
-
 
 **zeqOS Chabazite support**
 
@@ -47,8 +43,21 @@ At launch zeqOS Chabazite had a security issue. The only build that is affected 
 **Mainstream support** (Making it available to public, downloads, updates, etc): Until 30th May 2022
 **Last-Time Support** (Casual bug fixes): Until 1st January 2023
 
+#### Builds of zeqOS
+
+## zeqOS Chabazite
+- [Build155_B02_U5_R](Build155_B02_U5_R)
+
+## zeqOS Rhodonite
+To be added.
+## zeqOS Natrolite
+- [Build25_B01](Build25_B01)
+## zeqOS Makalu
+To be added.
+
 #### Downloads
 
+Missing build downloads can be found in their respective page.
 
 - zeqOS Chabazite
   - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)
