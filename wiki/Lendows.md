@@ -14,14 +14,16 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | Lendows                       |
-| **First Official Release**| Lendows Beta 0.6              |
-| **First Release**         | Lendows 1.0                   |
-| **Latest OS Announcement**| Lendows 7                     |
+| **First Release**         | Lendows Beta 0.6              |
+| **First Official Release**| Lendows 1.0                   |
 | **Latest Stable Release** | Lendows 6.2 (Anniversary Update)|
+| **Latest OS Announcement**| Lendows 7                     |
 
 ### Lendows
 
 Lendows is an *operting system* created using Microsoft PowerPoint by [PPTGames](https://pptgamespt.wixsite.com/pptg). It has evolved a lot trough all the versions and has many features.
+
+Source: [Official Lendows Website](https://pptgamespt.wixsite.com/lendows)
 
 #### History
 
