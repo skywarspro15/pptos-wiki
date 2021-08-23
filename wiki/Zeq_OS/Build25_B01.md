@@ -23,7 +23,7 @@ The new notepad was not working at this stage. The same goes for the file manage
 
 ### Setup
 
-At this stage their is no setup screen.
+At this stage there is no setup screen.
 
 ### Shell
 
