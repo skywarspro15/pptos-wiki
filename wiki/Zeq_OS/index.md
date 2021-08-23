@@ -50,8 +50,10 @@ At launch zeqOS Chabazite had a security issue. The only build that is affected 
 
 ## zeqOS Rhodonite
 To be added.
+
 ## zeqOS Natrolite
 - [Build25_B01](Build25_B01)
+
 ## zeqOS Makalu
 To be added.
 
