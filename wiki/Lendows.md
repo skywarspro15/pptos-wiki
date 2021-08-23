@@ -7,7 +7,7 @@
 ## Lendows
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130456450-d498d637-bf3f-462b-8c36-706e25084a44.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130473023-09b34d55-110f-45c2-bca5-4b94ad72e0db.png" />
 </a>
 
 |                           |                               |
@@ -32,7 +32,7 @@ The first public Beta version of Lendows is the Beta 0.6 and was all based on Wi
 
 #### Logo
 
-|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130456233-86618f69-d7ba-43e7-9459-4ec581e8ebb0.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130456678-b61aaec3-42db-4ee6-806a-c6a1d61c85f3.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130456962-1641191b-322a-461d-af81-0bcc615d51dc.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130456450-d498d637-bf3f-462b-8c36-706e25084a44.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130457443-9d7be95e-4457-45fa-b463-b11bc1d582ba.png" /></a>|
+|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130472760-b56284b7-7445-4ad5-90f5-b27954f9f823.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130472868-2877179f-ed54-4a3a-ad70-eb829f548ce0.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130472948-c8e4d747-2e9e-4f66-817a-5650f367d379.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130473023-09b34d55-110f-45c2-bca5-4b94ad72e0db.png" /></a>|<a><img height="50" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130473158-f169a42d-9dbb-43ff-a612-a49ae3c6f2d8.png" /></a>|
 | - | - | - | - | - |
 |First official logo|First logo update|First logo variant|**Current logo**|Demo logo of the deprecated Lendows 7 Lite|
 
