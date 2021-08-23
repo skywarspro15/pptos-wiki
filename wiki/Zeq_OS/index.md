@@ -32,7 +32,7 @@ zeqOS Natrolite was one of the first PPTOS's ever to have movable windows with A
 
 #### builds
 
--[Build25_B01](Build25_B01)
+- [Build25_B01](Build25_B01)
 
 ### zeqOS Chabazite
 
