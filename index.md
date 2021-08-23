@@ -20,4 +20,5 @@
 - Twg
   - [Zenix OS](wiki/Zenix_OS)
 - Zulo
-  - [zeqOS](wiki/Zeq_OS)
+  - [zeqOS](wiki/Zeq_OS/)
+    - [zeqOS Build25_B01](wiki/Zeq_OS/Build25_B01)
