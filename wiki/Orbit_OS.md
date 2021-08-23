@@ -41,3 +41,5 @@ The first Orbit OS release was codenamed "Goldsmith", with ties to its colour sc
 
 <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/V0w_HfFNYiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > ORBIT OS (PowerPoint OS)- RELEASE
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

@@ -120,3 +120,5 @@ Missing build downloads can be found in their respective page.
 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > zeqOS Makalu &#124; PowerPoint Operating System(PPTOS)
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

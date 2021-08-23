@@ -132,3 +132,5 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <img src="https://user-images.githubusercontent.com/58103738/129173990-7aa69b73-ea56-44b9-acf7-d4886d763279.png" alt="11">
   <p>word app</p>
 </blockquote>
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

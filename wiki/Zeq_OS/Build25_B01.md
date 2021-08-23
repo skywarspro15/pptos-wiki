@@ -36,3 +36,5 @@ The taskbar had dark mode by default and the start menu had no shutdown or setti
 ### Download
 
 - [Build25_B01](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build25_B01.pptm)
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

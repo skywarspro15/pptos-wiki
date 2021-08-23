@@ -33,4 +33,4 @@ Olias stated in a live stream that he loved the PPTOS community, but he also lov
 - [Aster_OS_3_Public](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Aster_OS/Aster_OS_3_Public.ppsm)
 - [Aster_OS_2_Ver_1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Aster_OS/Aster_OS_2_Ver_1.0.ppsm)
 
-<body style="background: aquamarine;">
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

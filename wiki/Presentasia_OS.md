@@ -128,3 +128,5 @@ On October 1st, 2014. **Presentasia OS|Presentasia** cancelled all of his projec
 
 <iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/ucTB7ilGmoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > Presentasia OS 8 Boundless
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

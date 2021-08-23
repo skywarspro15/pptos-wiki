@@ -136,3 +136,5 @@
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

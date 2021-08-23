@@ -34,3 +34,5 @@ Broadsheet is an office app included with Eminent OS. Not much information is kn
 
 ![4](https://user-images.githubusercontent.com/58103738/128839996-6d0d9c66-ccfe-48e1-a6d5-a8b5d946520f.png)
 > Teaser 1
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
