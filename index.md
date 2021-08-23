@@ -34,7 +34,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - Windsoft Technology
   - [Wind OS](wiki/Wind_OS)
-- Veress Bence Gyula
+- Bence
   - [Inter OS](wiki/Inter_OS)
   - Nexton (Wiki page under development)
   - Exon (Wiki page under development)
