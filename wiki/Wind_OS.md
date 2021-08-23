@@ -25,7 +25,8 @@
 ### WindOS 1.X
 
 WindOS 1.0(Codename: Future) was the first version of WindOS, this version released in June 28th on YouTube. Then in June 30th released WindOS 1.1 on Discord.
-WindOS 2.X
+
+### WindOS 2.X
 WindOS 2.0(Codename: Duo) was the second version of WindOS, this version released in July 12th on YouTube. Then in July 30th released WindOS 2.1 on Discord.
 
 ### WindOS RD
