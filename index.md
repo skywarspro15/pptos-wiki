@@ -27,10 +27,10 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - Twg
   - [Zenix OS](wiki/Zenix_OS)
   Zenix OS is a new and interesting PowerPoint OS.
-- Zulo
+- [Zulo](https://github.com/ZuloYT)
   - [zeqOS](wiki/Zeq_OS/)
   A powerful but lightweight PowerPoint OS.
-- PPTGames
+- [PPTGames](https://github.com/PPTGames)
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - Windsoft
   - [Wind OS](wiki/Wind_OS)
