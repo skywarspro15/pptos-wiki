@@ -124,7 +124,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>start menu Final</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="hhttps://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129173943-c43b1f0d-f7a9-499b-b439-da59e2ea2219.png" alt="11">
   <p>Zenix OS Atom Original (Canceled) desktop</p>
   <img src="https://user-images.githubusercontent.com/58103738/129173976-2c1bf551-9c15-4e54-993a-7c22c2cfe692.png" alt="11">
