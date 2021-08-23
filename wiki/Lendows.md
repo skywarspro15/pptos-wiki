@@ -14,8 +14,9 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | Lendows                       |
+| **First Official Release**| Lendows Beta 0.6              |
 | **First Release**         | Lendows 1.0                   |
-| **Latest OS Development** | Lendows 7?                    |
+| **Latest OS Announcement**| Lendows 7                     |
 | **Latest Stable Release** | Lendows 6.2 (Anniversary Update)|
 
 ### Lendows
