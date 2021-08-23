@@ -30,6 +30,10 @@ zeqOS Makalu was the first version of zeqOS to be released to the public. It fea
 
 zeqOS Natrolite was one of the first PPTOS's ever to have movable windows with ActiveX elements. In the File Manager you could open and edit files. All of that in only 1 slide, and a size of only 4.55MB. In total there were 14 SP (Service Packs).
 
+#### builds
+
+-[Build25_B01](Build25_B01)
+
 ### zeqOS Chabazite
 
 zeqOS Chabazite builds ontop of Natrolite with a new File Manager, Notepad, Bubbly the virtual assistant, zeqOS Store, the new coding language called ZCS, zeqOS Studio where you can write programs in ZCS, and zeqOS Update.
