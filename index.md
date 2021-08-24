@@ -40,7 +40,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
 - SwordCube Tech
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
- -Rohan
+ - Rohan
   -[Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
