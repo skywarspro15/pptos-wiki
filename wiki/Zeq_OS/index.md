@@ -39,9 +39,9 @@ At launch zeqOS Chabazite had a security issue. The only build that is affected 
 
 **zeqOS Chabazite support**
 
-**Full support** (Update packs, small updates, etc): Until 20th August 2021
-**Mainstream support** (Making it available to public, downloads, updates, etc): Until 30th May 2022
-**Last-Time Support** (Casual bug fixes): Until 1st January 2023
+- **Full support** (Update packs, small updates, etc.): Until 20th August 2021
+- **Mainstream support** (Making it available to public, downloads, updates, etc.): Until 30th May 2022
+- **Last-Time Support** (Small bug fixes): Until 1st January 2023
 
 #### Builds of zeqOS
 
