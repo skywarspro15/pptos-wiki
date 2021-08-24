@@ -15,7 +15,7 @@
 
 ### Apps
 
-The new notepad was not working at this stage. The same goes for the file manager you could click on a file and it would prompt to open the file but that didn't do anything. You also could not not switch to other directories.
+The `new` notepad was not working at this stage. The same goes for the file manager you could click on a file and it would prompt to open the file but that didn't do anything. You also could not not switch to other directories.
 
 | <a href="https://user-images.githubusercontent.com/58103738/130407639-5f77bf7f-7b6b-406f-8070-2389e223290b.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130407639-5f77bf7f-7b6b-406f-8070-2389e223290b.png" /></a> | <a href="https://user-images.githubusercontent.com/58103738/130408005-a67111a9-5adf-46a7-bc6b-024df3a6a678.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130408005-a67111a9-5adf-46a7-bc6b-024df3a6a678.png" /></a> |
 | - | - |
