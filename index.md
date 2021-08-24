@@ -37,8 +37,8 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - [PPTGames](https://github.com/PPTGames)
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - Windsoft Technology
-  - [Wind OS](wiki/Wind_OS)
+  - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
 - SwordCube Tech
-  - [Blade](wiki/Blade/)
+  - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
