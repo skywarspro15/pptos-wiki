@@ -32,7 +32,7 @@ V1 of Starlite RTM is still in development, but expected to come out on 24/08/20
 
 #### Downloads
 
-- Starlite (no downloads avalible, sorry)
+- Starlite (no downloads avalible)
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
