@@ -21,7 +21,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   A PowerPoint OS that was abandoned.
   - [Eminent OS](wiki/Eminent_OS)
   Eminent OS was never fully developed and abandoned.
-- Bence
+- [Bence](https://github.com/ben21ce)
   - [Inter OS](wiki/Inter_OS)
   - Nexton (Wiki page under development)
   - Exon (Wiki page under development)
@@ -38,11 +38,13 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - Windsoft Technology
   - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
-- SwordCube Tech
+  - [Kind OS](wiki/Kind_OS) KindOS is a rebirth PowerPoint OS.
+- [SwordCube Tech](https://github.com/swordcube)
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
-- Rohan
+- [Rohan](https://github.com/Rohan287)
   - [Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
 - The Omnia Project
   - [OMNIA](wiki/Omnia) Omnia is a simple Desktop Environment Emulator created entirely in PowerPoint.
+  - Flopad (Wiki page under development)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

@@ -150,4 +150,14 @@
 - OMNIA
   - [OMNIA OS1 ARCTURUS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Omnia/OMNIA%20OS1%20ARCTURUS.zip)
 
+- KindOS
+  - [KindOS 1.0[alpha]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS1end.pptx)
+  - [KindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS1.0end.pptx)
+  - [KindOS 2.0[alpha]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS2_alphaend.pptx)
+  - [KindOS 2.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_2.0.pptx)
+  - [KindOS 3.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_3.0.pptm)
+  - [KindOS 4.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_4.0.pptm)
+  - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
+  - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
