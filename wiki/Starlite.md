@@ -27,7 +27,7 @@ V1 of Starlite RTM is still in development, but expected to come out on 24/08/20
 #### Screenshot
 
 > Starlite (no screenshots avalible, heres a wallpaper that will come out in V2) 
-![1](https://a.c-dn.net/b/2MWFXw/shooting-star-candlestick-pattern_body_GettyImages-543217268.jpg.full.jpg)
+![1](https://user-images.githubusercontent.com/58103738/130615758-8b279b8c-c1b5-4a62-81e3-1d3a3f48ee52.png)
 
 
 #### Downloads
