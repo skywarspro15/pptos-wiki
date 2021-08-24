@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## Omnia
+## OMNIA
 
 <a>
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130616729-dee5a027-a1bf-4e57-84d4-afabc1c1af52.png" />
@@ -54,8 +54,8 @@ Based on Flopad Arcturus, Omnia OS1 brings a massive overhaul of the User Interf
 #### video
 
 <blockquote>
-  <a style="color: #222;">OMNIA OS1</a><a>/</a>
   <iframe src="https://www.youtube-nocookie.com/embed/dZUfvUH8qz4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+  <p>OMNIA OS1</p>
 </blockquote>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
