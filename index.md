@@ -41,6 +41,6 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - SwordCube Tech
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
  - Rohan
-  -[Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
+  - [Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
