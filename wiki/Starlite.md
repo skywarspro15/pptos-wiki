@@ -9,20 +9,20 @@
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                | 
-| **First Release**         | Not released yet - beta       |
-| **Latest OS Development** | Development in progress       |
-| **Latest Stable Release** | No stable release - betas only|
+| **First Release**         | Starlite RTM V1               |
+| **Latest OS Development** | Actively developed by Rohan   |
+| **Latest Stable Release** | Starlite RTM V1               |
 
 ### Starlite
 
-Starlite is a OS made by Rohan in development. Starlite is the first OS that Rohan will release into the public. Some features include a 
-command line, personalizaion etc. RTM versions arent avalible yet, since Starlite is being beta tested for bugs and errors still. This PPTOS is 
-relatively quite new. Starlite will be closed source until V3 is made and finished.
+Starlite is a OS made by Rohan. Starlite is the first OS that Rohan released into the public. Some features include a 
+command line, personalizaion etc. RTM versions are avalible, since Starlite has finished its beta testing/insider period for RTM V1. This PPTOS is 
+relatively quite new. Starlite will be open source till V3 is completed.
 
-### Starlite RTM
+### Starlite RTM V1
 
-V1 of Starlite RTM is still in development, but expected to come out on 24/08/2021. Expect the time to be around 5/6 PM BST.
-
+V1 of Starlite RTM is released and it features a web browser, command line, CD reader and unique apps like Drawing.
+Starlite RTM has a small insider team, but Starlite was actually release compared to Rohan's OSes.
 
 #### Screenshot
 
@@ -32,7 +32,7 @@ V1 of Starlite RTM is still in development, but expected to come out on 24/08/20
 
 #### Downloads
 
-- Starlite (no downloads avalible)
-
-
+- Starlite 
+   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
+   
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
