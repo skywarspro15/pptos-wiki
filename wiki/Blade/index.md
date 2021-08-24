@@ -6,8 +6,10 @@
 
 ## Blade
 
+
+
 <a>
-  <img align="left" height="100" alt="pfp" src="https://raw.githubusercontent.com/swordcube/pptos-wiki/gh-pages/files/Blade/tkmn.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130596444-d7ff3a3b-2d9f-415d-a860-9cd46160ac43.png" />
 </a>
 
 |                           |                                  |
@@ -35,13 +37,12 @@ This version is currently unreleased.
 #### Screenshot
 
 > Blade 1.0 Desktop
-![1](https://raw.githubusercontent.com/swordcube/pptos-wiki/gh-pages/files/Blade/tkmn.png)
+![1](https://user-images.githubusercontent.com/58103738/130596444-d7ff3a3b-2d9f-415d-a860-9cd46160ac43.png)
 
 
 #### Downloads
 
-- Blade A1.0 Strawberry
-    - [Download](https://github.com/swordcube/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
+- [Blade A1.0 Strawberry](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
