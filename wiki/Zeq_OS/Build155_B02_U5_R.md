@@ -24,7 +24,7 @@ Example:
 Example: 
 `Split("hi there","hi",1)`
  Returns: " there"
-- InWindow.AppID | InWindow.TextBoxName were added!
+- InWindow.AppID   InWindow.TextBoxName were added!
 - InWindow.Close was added! (You can close the active window with this function
 - Mid() was added!
 Example: 
