@@ -145,6 +145,6 @@
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
 
 - Blade
-    - [Strawberry A1.0](https://github.com/swordcube/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
+    - [Strawberry A1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
