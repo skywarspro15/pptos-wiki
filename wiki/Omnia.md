@@ -12,7 +12,7 @@
 
 |                           |                                     |
 | ------------------------- | ----------------------------------- |
-| **Website**               | https://theomniaproject.weebly.com/ |
+| **Website**               | [https://theomniaproject.weebly.com/](https://theomniaproject.weebly.com/) |
 | **Programmed In**         | PowerPoint VBA                      |
 | **OS Family**             | OMNIA                               |
 | **First Release**         | OMNIA OS1                           |
