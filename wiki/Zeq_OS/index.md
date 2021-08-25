@@ -47,6 +47,7 @@ At launch zeqOS Chabazite had a security issue. The only build that is affected 
 
 ## zeqOS Chabazite
 - [Build155_B02_U5_R](Build155_B02_U5_R)
+- [Build90_B02_Pro](Build90_B02_Pro)
 
 ## zeqOS Rhodonite
 To be added.
