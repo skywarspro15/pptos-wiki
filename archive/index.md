@@ -165,6 +165,6 @@
   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
 
 - neonOS
-    - [neonOS Codename: Fluent](https://github.com/neonnew/pptos-wiki/raw/gh-pages/files/neonOS/neonOS%201X%20210820.pptm)
+    - [neonOS Codename: Fluent](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
