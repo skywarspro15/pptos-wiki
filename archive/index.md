@@ -159,6 +159,7 @@
   - [KindOS 4.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_4.0.pptm)
   - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
   - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
+  - [KindOS Quartz](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Quartz.pptm)
 
 - Starlite
   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)

@@ -17,7 +17,7 @@
 | **First OS Development**  | KindOS 1 alpha                |
 | **First Release**         | KindOS 1.0                    |
 | **Latest OS Development** | /                             |
-| **Latest Stable Release** | KindOS MarbleS                |
+| **Latest Stable Release** | KindOS Quartz                 |
 
 ### KindOS
 
@@ -44,6 +44,10 @@ KindOS Marble was the replace KindOS 5.0 version, this version released August 2
 ### KindOS MarbleS
 KindOS MarbleS was the sixth version of KindOS, this version released in August 19th 2021 on Discord
 
+### KindOS Quartz
+
+KindOS Quartz was the first have language change version of KndOS, this version released in August 25th 2021 on Discord
+
 
 #### Downloads
 
@@ -56,6 +60,7 @@ KindOS MarbleS was the sixth version of KindOS, this version released in August 
   - [KindOS 4.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_4.0.pptm)
   - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
   - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
+  - [KindOS Quartz](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Quartz.pptm)
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
