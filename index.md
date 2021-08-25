@@ -39,6 +39,8 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - Windsoft Technology
   - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
   - [Kind OS](wiki/Kind_OS) KindOS is a rebirth PowerPoint OS.
+- [Neonnew](https://github.com/neonnew)
+  - [neonOS](wiki/NeonOS) 
 - [SwordCube Tech](https://github.com/swordcube)
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
 - [Rohan](https://github.com/Rohan287)
