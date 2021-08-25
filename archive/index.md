@@ -138,11 +138,31 @@
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
 
 - WindOS
-    - [WindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
-    - [WindOS 1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.pptm)
-    - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
-    - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
-    - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
+  - [WindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
+  - [WindOS 1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.pptm)
+  - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
+  - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
+  - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
+
+- Blade
+  - [Strawberry A1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
+
+- OMNIA
+  - [OMNIA OS1 ARCTURUS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Omnia/OMNIA%20OS1%20ARCTURUS.zip)
+
+- KindOS
+  - [KindOS 1.0[alpha]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS1end.pptx)
+  - [KindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS1.0end.pptx)
+  - [KindOS 2.0[alpha]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS2_alphaend.pptx)
+  - [KindOS 2.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_2.0.pptx)
+  - [KindOS 3.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_3.0.pptm)
+  - [KindOS 4.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_4.0.pptm)
+  - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
+  - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
+  - [KindOS Quartz](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Quartz.pptm)
+
+- Starlite
+  - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
 
 - neonOS
     - [neonOS Codename: Fluent](https://github.com/neonnew/pptos-wiki/raw/gh-pages/files/neonOS/neonOS%201X%20210820.pptm)
