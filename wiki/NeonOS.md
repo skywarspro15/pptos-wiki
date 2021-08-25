@@ -7,7 +7,7 @@
 ## neonOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://upload.wikimedia.org/wikipedia/commons/1/19/NeonOS_logo.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130786466-a1be6846-81cb-4a7a-a2e4-6f869b811fcd.png" />
 </a>
 
 |                           |                               |
