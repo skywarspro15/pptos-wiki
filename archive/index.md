@@ -160,4 +160,7 @@
   - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
   - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
 
+- Starlite
+  - [Starlite_RTM_V1](https://github.com/Rohan287/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
