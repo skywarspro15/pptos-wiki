@@ -22,8 +22,8 @@
 
 ### Blade
 
-Blade is a currently in development open source one slide PPTOS made by swordcube. I am allowing people to have a beta build publicly to get feedback.
-Releases come in "flavors"
+Blade is a currently in development open source one slide PPTOS made by SwordCube, There is 1 pubicly insider build available.
+Blade comes in "Flavors":
 
 Vanilla means Stable
 Strawberry means Insider
