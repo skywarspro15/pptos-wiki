@@ -61,7 +61,8 @@ neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
 ## Screenshot
 
 > neonOS Codename: Fluent Desktop
-![1](https://commons.wikimedia.org/wiki/File:NDesktop.png)
+![afbeelding](https://user-images.githubusercontent.com/58103738/130749667-1b34ccb8-d9b9-40e8-9769-5f5870135457.png)
+
 #### Downloads
 
 - neonOS Codename: Fluent
