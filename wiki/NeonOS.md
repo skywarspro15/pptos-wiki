@@ -7,7 +7,7 @@
 ## neonOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130786466-a1be6846-81cb-4a7a-a2e4-6f869b811fcd.png" />
+  <img align="left" height="100" alt="pfp" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/NeonOS_logo_2.png" />
 </a>
 
 |                           |                               |
@@ -19,9 +19,7 @@
 | **Latest Stable Release** | neonOS 1.2                    |
 
 ### About
-
 neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
-
 ## History
 ### neonOS 0.0.1 (Bulid 210529)
  - Added Setting, About and Personalize
