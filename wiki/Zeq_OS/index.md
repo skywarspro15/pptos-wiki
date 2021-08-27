@@ -30,6 +30,12 @@ zeqOS Makalu was the first version of zeqOS to be released to the public. It fea
 
 zeqOS Natrolite was one of the first PPTOS's ever to have movable windows with ActiveX elements. In the File Manager you could open and edit files. All of that in only 1 slide, and a size of only 4.55MB. In total there were 14 SP (Service Packs).
 
+**zeqOS Natrolite's Support**
+
+- **Full support** (Many service packs, updates, etc): Until 20th September 2020
+- **Mainstream support** (Making it available to public, downloads, etc): Until 30th November 2020
+- **Last-Time Support** (Casual bug fixes): Until 1st January 2021
+
 ### zeqOS Chabazite
 
 zeqOS Chabazite started as Rhodonite, a version cancelled. In late 2020, the development was reset to a new system-code called Zento(previous system-code was NT).
