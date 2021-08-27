@@ -65,7 +65,7 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version now 
 
 - WindOS
     - [WindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
-    - [WindOS 1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.pptm)
+    - [WindOS 1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.ppsm)
     - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
     - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
