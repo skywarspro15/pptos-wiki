@@ -15,8 +15,8 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | WindOS                        |
 | **First Release**         | WindOS 1.X                    |
-| **Latest OS Development** | WindOS 5.0 "Tiger"            |
-| **Latest Stable Release** | WindOS 2021                   |
+| **Latest OS Development** | /                             |
+| **Latest Stable Release** | WWindOS 5.0 "Tiger"           |
 
 ### WindOS
 
@@ -38,7 +38,17 @@ WindOS RD(Codename: Reset Design and 3.0 edition) was the third version, this ve
 WindOS 2021(Codename: 4.0 edition) was the fourth version, this version released in August 19th on Discord.
 
 ### WindOS 5.0 “Tiger”
-WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version now is public development.
+WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version released in August 27th on discord.
+
+### Version Support
+
+|                           |                               |
+| ------------------------- | ----------------------------- |
+| **WindOS 1.X**            | 2021-07-19(end of support)    |
+| **WindOS 2.X**            | 2021-08-09(end of support)    |
+| **WindOS RD**             | 2021-08-26(end of support)    |
+| **WindOS 2021**           | 2021-09-03(supported)         |
+| **WindOS Tiger**          | /                             |
 
 #### Screenshot
 
@@ -69,5 +79,6 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version now 
     - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
     - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
+    - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

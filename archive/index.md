@@ -143,6 +143,7 @@
   - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
   - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
   - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
+  - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
 
 - Blade
   - [Strawberry A1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
