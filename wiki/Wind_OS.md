@@ -16,7 +16,7 @@
 | **OS Family**             | WindOS                        |
 | **First Release**         | WindOS 1.X                    |
 | **Latest OS Development** | /                             |
-| **Latest Stable Release** | WWindOS 5.0 "Tiger"           |
+| **Latest Stable Release** | WindOS 5.0 "Tiger"           |
 
 ### WindOS
 
