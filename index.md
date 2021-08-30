@@ -48,5 +48,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 - The Omnia Project
   - [OMNIA](wiki/Omnia) Omnia is a simple Desktop Environment Emulator created entirely in PowerPoint.
   - Flopad (Wiki page under development)
+- Circle Software
+  - [SimpleOS](wiki/Simple_OS) SimpleOS is a discontinued OS series that was extremely short lived.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

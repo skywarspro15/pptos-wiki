@@ -168,4 +168,7 @@
 - neonOS
     - [neonOS Codename: Fluent](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
 
+- SimpleOS
+  - [Version 1.0 (27th June 2021)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Simple_OS/simpleOS%201.0.pptm)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
