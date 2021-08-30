@@ -52,5 +52,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Flopad](wiki/Flopad_OS)
 - Circle Software
   - [SimpleOS](wiki/Simple_OS) SimpleOS is a discontinued OS series that was extremely short lived.
+- Gi-OS
+  - [Gi-OS](wiki/Gi-OS) PowerPoint OSes that are compatible with both Mac and Windows.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

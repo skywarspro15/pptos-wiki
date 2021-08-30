@@ -183,4 +183,18 @@
 - SimpleOS
   - [Version 1.0 (27th June 2021)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Simple_OS/simpleOS%201.0.pptm)
 
+- Gi-OS
+  - [NEXUS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/Gi-OS%20NEXUS.pptx)
+  - [NEXUS pro](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/Gi-OS%20NEXUS%20pro.pptx)
+  - [Flow](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/GI-OS%20flow.pptx)
+  - [ATLAS AI](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/ATLAS%20AI.pptx)
+  - [Flow](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/GI-OS%20flow.pptx)
+  - [ATLAS AI](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/ATLAS%20AI.pptx)
+  - [ATLAS AI beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/ATLAS%20AI%20beta.pptx)
+  - [Galileo](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/Gi-os%20Galileo.pptx)
+  - [DASHBOARD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/Gi-OS%20DASHBOARD.pptx)
+  - [GI-OS Consumer Version](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/GI-OS%20Consumer%20Version.pptx)
+  - [GAMR](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/GAMR.pptx)
+  - [banner](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Gi-OS/banner.pptx)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
