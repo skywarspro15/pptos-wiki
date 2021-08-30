@@ -18,17 +18,17 @@
 #### ZCS
 - Mod Operator is added!
 Example: 
-`3 Mod 2`
+<code style="background: #c1c1c1;border-radius: 5px;padding: 2px;">3 Mod 2</code>
 
 - Split function is added!
 Example: 
-`Split("hi there","hi",1)`
+<code style="background: #c1c1c1;border-radius: 5px;padding: 2px;">Split("hi there","hi",1)</code>
  Returns: " there"
 - InWindow.AppID   InWindow.TextBoxName were added!
 - InWindow.Close was added! (You can close the active window with this function
 - Mid() was added!
 Example: 
-`Mid("hi there",1,2)`
+<code style="background: #c1c1c1;border-radius: 5px;padding: 2px;">Mid("hi there",1,2)</code>
 
 #### Update
 - There was an issue that could cause files to go blank and not use the correct font color from the previous PPT file.
