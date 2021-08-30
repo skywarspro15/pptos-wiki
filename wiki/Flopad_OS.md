@@ -79,12 +79,4 @@ From 2015 to 2021, Nebula has been abandoned multiple times. However, each and e
   - [Flopad OS2 Andromeda](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flopad_OS/Flopad%20OS2%20Andromeda%202.1.1.zip)
   - [Flopad OS3 build 4501](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flopad_OS/Flopad%20OS3%20-%20Build%204501.pptm)
 
-#### video
-
-<blockquote>
-  <iframe src="https://www.youtube-nocookie.com/embed/dZUfvUH8qz4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-  <p>OMNIA OS1</p>
-</blockquote>
-
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
-
