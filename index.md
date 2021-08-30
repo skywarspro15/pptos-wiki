@@ -49,7 +49,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
 - The Omnia Project
   - [OMNIA](wiki/Omnia) Omnia is a simple Desktop Environment Emulator created entirely in PowerPoint.
-  - Flopad (Wiki page under development)
+  - [Flopad](wiki/Flopad_OS)
 - Circle Software
   - [SimpleOS](wiki/Simple_OS) SimpleOS is a discontinued OS series that was extremely short lived.
 

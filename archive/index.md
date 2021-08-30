@@ -18,7 +18,7 @@
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
   </p><p style=""><a style="font-size: 18px;font-weight: 900;font-style: normal;color: rgba(0,0,0,0.0);">-</a>
-  </p><p style=""><a href="https://mega.nz/file/22ZSlDwB#6Gcg63AjsHVlhydBcowRXJ4IWWDuzCwYwncxbd4rgrs" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">12.48GB</a>
+  </p><p style=""><a href="https://archive.org/download/pptoswiki_archive_10_08_2021/pptoswiki_archive_10_08_2021.zip" style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">12.48GB</a>
   </p>
 <div></div><div></div></blockquote></blockquote>
 
@@ -157,6 +157,11 @@
 
 - OMNIA
   - [OMNIA OS1 ARCTURUS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Omnia/OMNIA%20OS1%20ARCTURUS.zip)
+
+- Flopad
+  - [Flopad OS1 Geraneia](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flopad_OS/Flopad%20OS1%20Geraneia.zip)
+  - [Flopad OS2 Andromeda](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flopad_OS/Flopad%20OS2%20Andromeda%202.1.1.zip)
+  - [Flopad OS3 build 4501](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flopad_OS/Flopad%20OS3%20-%20Build%204501.pptm)
 
 - KindOS
   - [KindOS 1.0[alpha]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KidsOS1end.pptx)
