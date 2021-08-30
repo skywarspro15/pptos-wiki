@@ -29,7 +29,7 @@ The first Orbit OS release was codenamed "Goldsmith", with ties to its colour sc
 
 #### Downloads
 
-- [ORBIT OS GoldSmith](https://1drv.ms/u/s!AvVW-0Dap3RQkxEJmMTpXbTFt4XZ?e=Y8q2OY)
+- [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki-archive/ORBIT%20OS%20GoldSmith.zip)
 - [Foundation 0.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
 
 #### Screenshots

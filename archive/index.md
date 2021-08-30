@@ -48,7 +48,7 @@
 
 - Nestor OS
     - Nestor OS
-      - [nestorOS 21.04 Standard [ENG]](https://drive.google.com/file/d/10PRqAs8uBIP8kuPBkOBeS-6NDEkY8V8N/view?usp=sharing)
+      - [nestorOS 21.04 Standard [ENG]](https://archive.org/download/pptoswiki-archive/nestorOS%2021.04%20Standard%20%5BENG%5D.pptm)
       - [nestorOS 21.04 Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2021.04%20Lite%20%5BENG%5D.pptm)
       - [nestorOS 19.10.1 LSB Standard [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Standard%20%5BENG%5D.pptm)
       - [nestorOS 19.10.1 LSB Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Lite%20%5BENG%5D.pptm)
@@ -78,7 +78,7 @@
       - [nsUI v0.1 [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v0.1%20%5BENG%5D.pptm)
 
 - Orbit OS
-  - [ORBIT OS GoldSmith](https://1drv.ms/u/s!AvVW-0Dap3RQkxEJmMTpXbTFt4XZ?e=Y8q2OY)
+  - [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki-archive/ORBIT%20OS%20GoldSmith.zip)
   - [Foundation 0.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
 
 - Aster OS
@@ -131,15 +131,15 @@
     - Lendows 3
         - [Lendows 3.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203.2.ppsm)
         - [Lendows 3.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203%20.1.ppsm)
-        - [Lendows 3](http://download1511.mediafire.com/jx8otu2dloag/udnzvh8up2yvdyl/Lendows+3.ppsm)
+        - [Lendows 3](https://archive.org/download/pptoswiki-archive/Lendows%203.ppsm)
 
     - Lendows 2
-        - [Lendows 2](http://download1588.mediafire.com/zvgzytilyljg/x9yq1pnmad3j944/Lendows+2.0.ppsm)
+        - [Lendows 2](https://archive.org/download/pptoswiki-archive/Lendows%202.0.ppsm)
 
     - Lendows 1
-        - [Lendows 1.2](http://download1980.mediafire.com/oz4lpe9mzkgg/24xr0n9q3h5wvj4/Lendows+1.2.ppsm)
-        - [Lendows 1.1](http://download944.mediafire.com/kghoup82vobg/ex07kixthh6xbme/Lendows+1.1.ppsm)
-        - [Lendows 1.0](http://download1979.mediafire.com/hfxmw5f5kk2g/igqp8ly98x6i44m/Lendows+1.0.ppsm)
+        - [Lendows 1.2](https://archive.org/download/pptoswiki-archive/Lendows%201.2.ppsm)
+        - [Lendows 1.1](https://archive.org/download/pptoswiki-archive/Lendows%201.1.ppsm)
+        - [Lendows 1.0](https://archive.org/download/pptoswiki-archive/Lendows%201.0.ppsm)
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)

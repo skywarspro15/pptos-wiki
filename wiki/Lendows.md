@@ -62,15 +62,15 @@ The first public Beta version of Lendows is the Beta 0.6 and was all based on Wi
     - Lendows 3
         - [Lendows 3.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203.2.ppsm)
         - [Lendows 3.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203%20.1.ppsm)
-        - [Lendows 3](http://download1511.mediafire.com/jx8otu2dloag/udnzvh8up2yvdyl/Lendows+3.ppsm)
+        - [Lendows 3](https://archive.org/download/pptoswiki-archive/Lendows%203.ppsm)
 
     - Lendows 2
-        - [Lendows 2](http://download1588.mediafire.com/zvgzytilyljg/x9yq1pnmad3j944/Lendows+2.0.ppsm)
+        - [Lendows 2](https://archive.org/download/pptoswiki-archive/Lendows%202.0.ppsm)
 
     - Lendows 1
-        - [Lendows 1.2](http://download1980.mediafire.com/oz4lpe9mzkgg/24xr0n9q3h5wvj4/Lendows+1.2.ppsm)
-        - [Lendows 1.1](http://download944.mediafire.com/kghoup82vobg/ex07kixthh6xbme/Lendows+1.1.ppsm)
-        - [Lendows 1.0](http://download1979.mediafire.com/hfxmw5f5kk2g/igqp8ly98x6i44m/Lendows+1.0.ppsm)
+        - [Lendows 1.2](https://archive.org/download/pptoswiki-archive/Lendows%201.2.ppsm)
+        - [Lendows 1.1](https://archive.org/download/pptoswiki-archive/Lendows%201.1.ppsm)
+        - [Lendows 1.0](https://archive.org/download/pptoswiki-archive/Lendows%201.0.ppsm)
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
