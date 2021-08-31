@@ -28,58 +28,59 @@ Release of new M-OS EVO may be possible in 2017.
 ### Versions
 
 (**Bold means upcoming**, *italic means unreleased*)
-    - VisiMax 0.5 (2007)
-    - M-OS 0.x (2008)
-    - M-OS 1 (2008)
-    - M-OS 2 (2009)
-        - M-OS 2.x
+ 
+ - VisiMax 0.5 (2007)
+ - M-OS 0.x (2008)
+ - M-OS 1 (2008)
+ - M-OS 2 (2009)
+   - M-OS 2.x
 
-    - M-OS X1 (2009)
-        - M-OS X1 SP1
+ - M-OS X1 (2009)
+   - M-OS X1 SP1
 
-    - M-OS X2 (2009)
-        - M-OS X2 SP1
-        - M-OS X2 SP2
-        - M-OS X2 SP3
+ - M-OS X2 (2009)
+   - M-OS X2 SP1
+   - M-OS X2 SP2
+   - M-OS X2 SP3
 
-    - M-OS 3 (2010)
-        - M-OS 3 SP1 with VisiShop (now KlieeShop)
+ - M-OS 3 (2010)
+    - M-OS 3 SP1 with VisiShop (now KlieeShop)
 
-    - M-OS 3D (2010)
-    - M-OS 4 (2011)
-        - M-OS 4 SP1
-        - M-OS 4 BoostPack
+ - M-OS 3D (2010)
+ - M-OS 4 (2011)
+   - M-OS 4 SP1
+   - M-OS 4 BoostPack
 
-    - M-OS 5 (2011)
-        - M-OS 5 Beta
-        - M-OS 5 Final
-        - M-OS 5 SP1
-        - M-OS 5 SP2
+ - M-OS 5 (2011)
+   - M-OS 5 Beta
+   - M-OS 5 Final
+   - M-OS 5 SP1
+   - M-OS 5 SP2
 
-    - M-OS 6 Licra (2012)
-        - Betsoft.inc Dev. Test 6 (Early development version of M-OS6.0 LICRA)
-        - M-OS 6 Licra February Test
-        - M-OS 6 RC1
-        - M-OS 6 Licra
+ - M-OS 6 Licra (2012)
+   - Betsoft.inc Dev. Test 6 (Early development version of M-OS6.0 LICRA)
+   - M-OS 6 Licra February Test
+   - M-OS 6 RC1
+   - M-OS 6 Licra
 
-    - M-OS X3 (2012)
-    - M-OS 7 Galaxy (2012)
-        - M-OS Galaxy Beta 1
-        - M-OS Galaxy Beta 2
-        - M-OS Galaxy Final
+ - M-OS X3 (2012)
+ - M-OS 7 Galaxy (2012)
+   - M-OS Galaxy Beta 1
+   - M-OS Galaxy Beta 2
+   - M-OS Galaxy Final
 
-    - *M-OS 8 Nova (2013)*
-        - *M-OS codenameNOVA*
+ - *M-OS 8 Nova (2013)*
+   - *M-OS codenameNOVA*
 
-    - M-OS 9 Genesis (2013)
-        - M-OS 9.0 Genesis
-        - M-OS 9.2 Genesis
+ - M-OS 9 Genesis (2013)
+   - M-OS 9.0 Genesis
+   - M-OS 9.2 Genesis
 
-    - **M-OS 10 EVO Mk. I** (first M-OS to have a changeable wallpaper)
-        - **M-OS codenameTEN**
-        - **M-OS codenameTEN**
+ - **M-OS 10 EVO Mk. I** (first M-OS to have a changeable wallpaper)
+   - **M-OS codenameTEN**
+   - **M-OS codenameTEN**
 
-    - **M-OS 11 EVO Mk. II**
+ - **M-OS 11 EVO Mk. II**
 
 ### Detailed OS technical info
 
@@ -90,6 +91,6 @@ Release of new M-OS EVO may be possible in 2017.
 #### Downloads
 
 - M-OS
-  - [m-os_genesis__9.2_](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/M-OS/m-os_genesis__9.2_.pptm)
+  - [m-os genesis 9.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/M-OS/m-os_genesis__9.2_.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
