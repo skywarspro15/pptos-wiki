@@ -240,13 +240,13 @@
             - [BubbleSoftXP 5.1.1256)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/legacy/BubbleSoftXP%205.1.1256.pptm)
             - [BubbleSoftXP 5.1.1256 (x64)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/legacy/BubbleSoftXP%205.1.1256%20x64.pptm)
     - [flooent.repo Unstable](https://sites.google.com/site/theopentasiateam/)
-            - [flooentXP](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/flooentXP.pptx)
-            - [flooent.zenon reboot](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/flooent.zenon%20reboot.pptm)
-            - [manic](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/manic.pptx)
-            - [modernXP Public Beta with modernXP Compatibility Framework](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/modernXP%20Public%20Beta%20with%20modernXP%20Compatibility%20Framework.pptm)
-            - [Moonlight](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/Moonlight.pptx)
+      - [flooentXP](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/flooentXP.pptx)
+      - [flooent.zenon reboot](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/flooent.zenon%20reboot.pptm)
+      - [manic](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/manic.pptx)
+      - [modernXP Public Beta with modernXP Compatibility Framework](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/modernXP%20Public%20Beta%20with%20modernXP%20Compatibility%20Framework.pptm)
+      - [Moonlight](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Flooent.repo/unstable/Moonlight.pptx)
 
 - M-OS
-  - [m-os_genesis__9.2_](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/M-OS/m-os_genesis__9.2_.pptm)
+  - [m-os genesis 9.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/M-OS/m-os_genesis__9.2_.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
