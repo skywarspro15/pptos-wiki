@@ -40,12 +40,8 @@ Bindows was a series of (apparently rip-off) products mocking Microsoft Windows.
 
 It was developed from 2014-2016 until flooent.repo decided to cease the project entirely, due to being obviously a rip-off.
 
-<a href="https://archive.org/download/pptoswiki-video/BubbleSoft%20Bindows%2010%20Pro%20Insider%20Preview-d6-s6dHGbhk.mp4">
-  <img align="right" height="200" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131464528-2cb21a4d-ff73-4b09-b09a-256e186dffc6.png" />
-</a>
-<a href="https://archive.org/download/pptoswiki-video/Bindows%20Technical%20Preview%20sneak%20peek-M_d4HyaahRw.mp4">
-  <img align="right" height="200" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131465074-527f399b-9a87-4d86-953d-e5417b93bbe2.png" />
-</a>
+<iframe src="https://archive.org/embed/pptoswiki-video/BubbleSoft%20Bindows%2010%20Pro%20Insider%20Preview-d6-s6dHGbhk.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/pptoswiki-video/Bindows%20Technical%20Preview%20sneak%20peek-M_d4HyaahRw.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 #### TreygenOS
 
@@ -99,9 +95,7 @@ Currently, modernXP is being developed and there is a new teaser on their channe
 
 ### Services
 
-<a href="https://archive.org/download/pptoswiki-video/New%20modernXP%20Demonstration-F-TAwvvmK98.mp4">
-  <img align="right" height="200" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131466588-008d0e12-6489-4c77-8d3d-7c3cec7ae45a.png" />
-</a>
+<iframe src="https://archive.org/embed/pptoswiki-video/New%20modernXP%20Demonstration-F-TAwvvmK98.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 #### ChatNow
 
