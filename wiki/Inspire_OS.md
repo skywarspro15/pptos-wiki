@@ -57,3 +57,5 @@ inspireOS 3 Kailash was the third version, this version is in development.
 
     - InspireOS 3
       - [inspireOS3fuji1_canceled](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireOS3fuji1_canceled.pptx)
+
+<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
