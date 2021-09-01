@@ -43,6 +43,9 @@
       - [Build34_B01_SP9](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP9.pptm)
       - [Build34_B01_RTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_RTM.pptm)
 
+    - zeqOS Culebra
+      - [zeqOS_Culebra (Unofficial Remake) (by twg)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Culebra_Rebuild.pptx)
+
     - zeqOS Makalu
       - [zeqOSMakaluRTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOSMakaluRTM.pptm)
 
@@ -248,5 +251,24 @@
 
 - M-OS
   - [m-os genesis 9.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/M-OS/m-os_genesis__9.2_.pptm)
+
+- Inspire_OS
+    - InspireOS 1
+      - [InspireOS_1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/InspireOS_1.pptm)
+
+    - InspireOS 2
+      - [inspireos2_premiumgold_insiderpreview2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview2.pptm)
+      - [inspireos2_premiumgold_insiderpreview2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview2.1.pptm)
+      - [inspireos2_premiumgold_insiderpreview3](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview3.pptm)
+      - [inspireos2_premiumgold_insiderpreview4](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview4.pptm)
+      - [inspireos2_premiumgold_insiderpreview5](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview5.pptm)
+      - [inspireos2_premiumgold_insiderpreview6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview6.pptm)
+      - [inspireos2_premiumgold_insiderpreview6169_edition](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_insiderpreview6169_edition.pptm)
+      - [inspireos2_premiumgold_build3](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_build3.pptx)
+      - [inspireos2_premiumgold_release1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_release1.pptm)
+      - [inspireos2_premiumgold_lite](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_lite.pptm)
+
+    - InspireOS 3
+      - [inspireOS3fuji1_canceled](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireOS3fuji1_canceled.pptx)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
