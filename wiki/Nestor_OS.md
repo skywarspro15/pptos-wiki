@@ -64,7 +64,8 @@ The dissolution is planned to have 3 stages: The 1st stage being in December 31s
 
 #### Screenshots
 
-![1](https://user-images.githubusercontent.com/58103738/128846377-8fa3c316-98c1-4c94-b5de-b3cf5a3e9046.png)
-> Nestor OS 19.04.1 Lite UI
+|<a href="https://user-images.githubusercontent.com/58103738/128846377-8fa3c316-98c1-4c94-b5de-b3cf5a3e9046.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128846377-8fa3c316-98c1-4c94-b5de-b3cf5a3e9046.png" /></a>|
+| - |
+|Nestor OS 19.04.1 Lite UI|
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

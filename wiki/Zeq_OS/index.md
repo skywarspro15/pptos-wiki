@@ -93,42 +93,22 @@ Missing build downloads can be found in their respective page.
 
 #### Screenshots
 
-![11](https://user-images.githubusercontent.com/58103738/128869859-fdedc6ac-e8d3-4d0c-ac48-30a10a38440c.png)
-> zeqOS Chabazite Setup
+|<a href="https://user-images.githubusercontent.com/58103738/128869859-fdedc6ac-e8d3-4d0c-ac48-30a10a38440c.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869859-fdedc6ac-e8d3-4d0c-ac48-30a10a38440c.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128870042-a345f5bd-14c7-4264-a1bf-92b18980828a.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128870042-a345f5bd-14c7-4264-a1bf-92b18980828a.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128869962-5db0d2b9-0515-474c-baaa-5463871351d3.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869962-5db0d2b9-0515-474c-baaa-5463871351d3.png" /></a>|
+| - | - | - |
+|zeqOS Chabazite Setup|zeqOS Chabazite Desktop|zeqOS Chabazite File Manager|
 
-![12](https://user-images.githubusercontent.com/58103738/128870042-a345f5bd-14c7-4264-a1bf-92b18980828a.png)
-> zeqOS Chabazite Desktop
+|<a href="https://user-images.githubusercontent.com/58103738/128869679-0e2ce490-e576-4d86-9b20-a84f779006d4.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869679-0e2ce490-e576-4d86-9b20-a84f779006d4.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128869506-6445733c-c61b-4b6e-993c-6b71826c3913.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869506-6445733c-c61b-4b6e-993c-6b71826c3913.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128869747-953b10fb-91f8-4fc4-bf66-3b4b077b6fb0.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869747-953b10fb-91f8-4fc4-bf66-3b4b077b6fb0.png" /></a>|
+| - | - | - |
+|zeqOS Natrolite Setup|zeqOS Natrolite Desktop|zeqOS Natrolite File Manager|
 
-![13](https://user-images.githubusercontent.com/58103738/128869962-5db0d2b9-0515-474c-baaa-5463871351d3.png)
-> zeqOS Chabazite File Manager
-
-![21](https://user-images.githubusercontent.com/58103738/128869679-0e2ce490-e576-4d86-9b20-a84f779006d4.png)
-> zeqOS Natrolite Setup
-
-![22](https://user-images.githubusercontent.com/58103738/128869506-6445733c-c61b-4b6e-993c-6b71826c3913.png)
-> zeqOS Natrolite Desktop
-
-![23](https://user-images.githubusercontent.com/58103738/128869747-953b10fb-91f8-4fc4-bf66-3b4b077b6fb0.png)
-> zeqOS Natrolite File Manager
-
-![31](https://user-images.githubusercontent.com/58103738/128869121-b1139f38-e584-4dd3-bc71-8990749f32cd.png)
-> zeqOS Makalu Desktop
-
-![32](https://user-images.githubusercontent.com/58103738/128869270-d9006d67-8ad3-4eed-9336-3c6c7b187ddd.png)
-> zeqOS Makalu File Manager
-
-![33](https://user-images.githubusercontent.com/58103738/128869370-ebda876e-25f4-4f85-b2d4-e66789d9c1f1.png)
-> zeqOS Makalu Word Editor
+|<a href="https://user-images.githubusercontent.com/58103738/128869121-b1139f38-e584-4dd3-bc71-8990749f32cd.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869121-b1139f38-e584-4dd3-bc71-8990749f32cd.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128869270-d9006d67-8ad3-4eed-9336-3c6c7b187ddd.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869270-d9006d67-8ad3-4eed-9336-3c6c7b187ddd.png" /></a>|<a href="https://user-images.githubusercontent.com/58103738/128869370-ebda876e-25f4-4f85-b2d4-e66789d9c1f1.png"><img height="180" alt="pfp" src="https://user-images.githubusercontent.com/58103738/128869370-ebda876e-25f4-4f85-b2d4-e66789d9c1f1.png" /></a>|
+| - | - | - |
+|zeqOS Makalu Desktop|zeqOS Makalu File Manager|zeqOS Makalu Word Editor|
 
 #### Videos
 
-<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/gsUsA7E4_bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Chabazite &#124; Everything new &#124; PowerPoint OS
-
-<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/zJvO6dAL_3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Natrolite PowerPoint OS &#124; Movable Windows &#124; Advanced PPTOS
-
-<iframe width="280" height="150" src="https://www.youtube-nocookie.com/embed/KLo0D9H2rWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> zeqOS Makalu &#124; PowerPoint Operating System(PPTOS)
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Makalu%20_%20PowerPoint%20Operating%20System%28PPTOS%29-KLo0D9H2rWo.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Natrolite%20PowerPoint%20OS%20_%20Movable%20Windows%20_%20Advanced%20PPTOS-zJvO6dAL_3E.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Chabazite%20_%20Everything%20new%20_%20PowerPoint%20OS-gsUsA7E4_bs.mp4" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
