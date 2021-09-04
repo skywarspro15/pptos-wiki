@@ -45,9 +45,4 @@ N/A
 
 **Next:** [TTOS 4](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled) 
 
-### Download
-
-- TTOS
-  - [TTOS 1]()
-
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
