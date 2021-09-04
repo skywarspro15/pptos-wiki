@@ -60,5 +60,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [M-OS](wiki/M-OS) M-OS is the one of the PowerPoint OS families owned by Kliee Enterprises.
 - Alok.
   - [InspireOS](wiki/Inspire_OS)
+- TTech
+  - [TTOS](wiki/TTOS/) TTOS (Tuna Tezer Operating System), was a PowerPoint OS Family made by TTech in PowerPoint 2010
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
