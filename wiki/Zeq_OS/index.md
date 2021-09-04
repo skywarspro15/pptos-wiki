@@ -107,8 +107,8 @@ Missing build downloads can be found in their respective page.
 
 #### Videos
 
-<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Makalu%20_%20PowerPoint%20Operating%20System%28PPTOS%29-KLo0D9H2rWo.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Natrolite%20PowerPoint%20OS%20_%20Movable%20Windows%20_%20Advanced%20PPTOS-zJvO6dAL_3E.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zeqOS%20Chabazite%20_%20Everything%20new%20_%20PowerPoint%20OS-gsUsA7E4_bs.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Makalu%20_%20PowerPoint%20Operating%20System%28PPTOS%29-KLo0D9H2rWo.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Natrolite%20PowerPoint%20OS%20_%20Movable%20Windows%20_%20Advanced%20PPTOS-zJvO6dAL_3E.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe align="right" src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Chabazite%20_%20Everything%20new%20_%20PowerPoint%20OS-gsUsA7E4_bs.mp4" width="280" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
