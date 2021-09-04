@@ -275,4 +275,7 @@
   - [TTOS 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/TTOS/ttos1.0.pptx)
   - [TTOS 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/TTOS/ttos2.pptx)
 
+- Messo OS
+  - [Snowball Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Messo_OS/Snowflake.zip)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
