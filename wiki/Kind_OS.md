@@ -48,6 +48,15 @@ KindOS MarbleS was the sixth version of KindOS, this version released in August 
 
 KindOS Quartz was the first have language change version of KndOS, this version released in August 25th 2021 on Discord
 
+### KindOS 7
+
+KindOS 7 was the seventh version of KindOS, the version was making.
+
+### Logo
+
+| <a href="https://user-images.githubusercontent.com/58103738/132881559-fc0ea728-b938-41ca-852c-c64fbd2a7cc9.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/132881559-fc0ea728-b938-41ca-852c-c64fbd2a7cc9.png" /></a> | <a href="https://user-images.githubusercontent.com/58103738/132881567-bb2d205a-cfe4-4dea-9731-ea445f17ee45.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/132881567-bb2d205a-cfe4-4dea-9731-ea445f17ee45.png" /></a> | <a href="https://user-images.githubusercontent.com/58103738/130623531-07df11e0-5a42-4c10-8fa5-d0b7ceabe97b.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130623531-07df11e0-5a42-4c10-8fa5-d0b7ceabe97b.png" /></a> | <a href="https://user-images.githubusercontent.com/58103738/132881572-ea9a6da4-4187-48eb-a8ef-034aeed76b06.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/58103738/132881572-ea9a6da4-4187-48eb-a8ef-034aeed76b06.png" /></a> |
+| - | - | - | - |
+| **KindOS 1** | **KindOS 2-5** | **KindOS Marble-Quartz** | **KindOS 7** |
 
 #### Downloads
 

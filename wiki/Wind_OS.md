@@ -16,7 +16,7 @@
 | **OS Family**             | WindOS                        |
 | **First Release**         | WindOS 1.X                    |
 | **Latest OS Development** | /                             |
-| **Latest Stable Release** | WindOS 5.0 "Tiger"           |
+| **Latest Stable Release** | WindOS 6 Lion                 |
 
 ### WindOS
 
@@ -24,21 +24,27 @@
 
 ### WindOS 1.X
 
-WindOS 1.0(Codename: Future) was the first version of WindOS, this version released in June 28th on YouTube. Then in June 30th released WindOS 1.1 on Discord.
+WindOS 1.0(Codename: Future) was the first version of WindOS, this version released on June 28th on YouTube. Then in June 30th released WindOS 1.1 on Discord.
 
 ### WindOS 2.X
-WindOS 2.0(Codename: Duo) was the second version of WindOS, this version released in July 12th on YouTube. Then in July 30th released WindOS 2.1 on Discord.
+
+WindOS 2.0(Codename: Duo) was the second version of WindOS, this version released on July 12th on YouTube. Then in July 30th released WindOS 2.1 on Discord.
 
 ### WindOS RD
 
-WindOS RD(Codename: Reset Design and 3.0 edition) was the third version, this version released in August 2nd on YouTube.
+WindOS RD(Codename: Reset Design and 3.0 edition) was the third version, this version released on August 2nd on YouTube.
 
 ### WindOS 2021
 
-WindOS 2021(Codename: 4.0 edition) was the fourth version, this version released in August 19th on Discord.
+WindOS 2021(Codename: 4.0 edition) was the fourth version, this version released on August 19th on Discord.
 
 ### WindOS 5.0 “Tiger”
-WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version released in August 27th on discord.
+
+WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version released on August 27th on discord.
+
+### WindOS 6.0 “Lion”
+
+WindOS 6.0 “Lion”(Codename: Lion) was the sixth version, this version released on September 10th on discord.
 
 ### Version Support
 
@@ -47,8 +53,9 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version rele
 | **WindOS 1.X**            | 2021-07-19(end of support)    |
 | **WindOS 2.X**            | 2021-08-09(end of support)    |
 | **WindOS RD**             | 2021-08-26(end of support)    |
-| **WindOS 2021**           | 2021-09-03(supported)         |
-| **WindOS Tiger**          | /                             |
+| **WindOS 2021**           | 2021-09-03(end of support)    |
+| **WindOS 5 Tiger**        | 2021-09-17(supported)         |
+| **WindOS 6 Lion**        | /        |
 
 #### Screenshot
 
@@ -80,5 +87,6 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version rele
     - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
     - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
+    - [WindOS 6 Lion](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
