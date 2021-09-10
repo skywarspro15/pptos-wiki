@@ -26,15 +26,11 @@ The first creation of Inter OS was created in 2018 in PowerPoint 2003 with over 
 **Pro tip: Never delete your old files!**
 So, Bence started Nexton, which is another cancelled PPTOS.
 
----
+**Videos:**
 
-**YouTube links:**
+<iframe src="https://archive.org/embed/pptoswiki-video/bence/Inter%20OS%20-%20Startup%20sound-nV_vqFphz6Y.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0"></iframe>
+<iframe src="https://archive.org/embed/pptoswiki-video/bence/Inter%20OS%20Cancelled%20PPTOS%20Test-rZgAj4voiX0.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0"></iframe>
 
->[Inter OS video (by Bence)](https://www.youtube.com/watch?v=rZgAj4voiX0)
-
->[Inter OS startup sound (by Bence)](https://www.youtube.com/watch?v=nV_vqFphz6Y)
-
----
 
 Inter OS (4th) desktop:
 
