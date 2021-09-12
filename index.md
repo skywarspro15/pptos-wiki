@@ -46,7 +46,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - [SwordCube Tech](https://github.com/swordcube)
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
 - [Rohan](https://github.com/Rohan287)
-  - [Starlite](wiki/Starlite) Starlite is a PPTOS that is in development.
+  - [Starlite](wiki/Starlite) Starlite is a PPTOS by Rohan.
 - The Omnia Project
   - [OMNIA](wiki/Omnia) Omnia is a simple Desktop Environment Emulator created entirely in PowerPoint.
   - [Flopad](wiki/Flopad_OS)
