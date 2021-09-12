@@ -15,14 +15,14 @@
 
 ### Starlite
 
-Starlite is a OS made by Rohan. Starlite is the first OS that Rohan released into the public. Some features include a 
-command line, personalizaion etc. RTM versions are avalible, since Starlite has finished its beta testing/insider period for RTM V1. This PPTOS is 
-relatively quite new. Starlite will be open source till V3 is completed.
+Starlite is a OS made by Rohan, inspired by Zulo and zeqOS Chabazite. Starlite is the first OS that Rohan released into the public. This OS is semi-advanced with 
+features like a command line, terminal mode, web browser, drawing etc. RTM versions are avalible, since Starlite has finished its beta testing/insider period for RTM V1.
+Starlite will be open source forever. Plans for Starlite include new desktop enviroments, new flavours, and more apps. Starlite has a small insider team.
 
 ### Starlite RTM V1
 
-V1 of Starlite RTM is released and it features a web browser, command line, CD reader and unique apps like Drawing.
-Starlite RTM has a small insider team, but Starlite was actually release compared to Rohan's OSes.
+V1 of Starlite RTM is released and it features a web browser, command line, CD reader and unique apps like Drawing. This release has some
+bugs, design flaws etc which will be fixed in Starlite RTM V2. Starlite RTM V1 was made as a followup to Starlite Build 37, the last beta build of Starlite RTM V1.
 
 #### Screenshot
 
@@ -33,6 +33,6 @@ Starlite RTM has a small insider team, but Starlite was actually release compare
 #### Downloads
 
 - Starlite 
-   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
+   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm/)
    
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
