@@ -32,7 +32,7 @@ The dissolution is planned to have 3 stages: The 1st stage being in December 31s
 #### Downloads
 
 - Nestor OS
-  - [nestorOS 21.04 Standard [ENG]](https://archive.org/download/pptoswiki-archive/nestorOS%2021.04%20Standard%20%5BENG%5D.pptm)
+  - [nestorOS 21.04 Standard [ENG]](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/itsNestor05%2FnestorOS%2FnestorOS%2021.04%20Standard%20%5BENG%5D.pptm)
   - [nestorOS 21.04 Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2021.04%20Lite%20%5BENG%5D.pptm)
   - [nestorOS 19.10.1 LSB Standard [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Standard%20%5BENG%5D.pptm)
   - [nestorOS 19.10.1 LSB Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Lite%20%5BENG%5D.pptm)

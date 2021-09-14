@@ -51,7 +51,7 @@
 
 - Nestor OS
     - Nestor OS
-      - [nestorOS 21.04 Standard [ENG]](https://archive.org/download/pptoswiki-archive/nestorOS%2021.04%20Standard%20%5BENG%5D.pptm)
+      - [nestorOS 21.04 Standard [ENG]](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/itsNestor05%2FnestorOS%2FnestorOS%2021.04%20Standard%20%5BENG%5D.pptm)
       - [nestorOS 21.04 Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2021.04%20Lite%20%5BENG%5D.pptm)
       - [nestorOS 19.10.1 LSB Standard [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Standard%20%5BENG%5D.pptm)
       - [nestorOS 19.10.1 LSB Lite [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nestorOS/nestorOS%2019.10.1%20LSB%20Lite%20%5BENG%5D.pptm)
@@ -81,7 +81,7 @@
       - [nsUI v0.1 [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v0.1%20%5BENG%5D.pptm)
 
 - Orbit OS
-  - [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki-archive/ORBIT%20OS%20GoldSmith.zip)
+  - [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Project_PowerPoint%2FOrbit%20OS%20GoldSmith%20Release%201.0%2030th%20June%202019.pptm)
   - [Foundation 0.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
 
 - Aster OS
@@ -134,15 +134,15 @@
     - Lendows 3
         - [Lendows 3.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203.2.ppsm)
         - [Lendows 3.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203%20.1.ppsm)
-        - [Lendows 3](https://archive.org/download/pptoswiki-archive/Lendows%203.ppsm)
+        - [Lendows 3](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%203%2FLendows%203.ppsm)
 
     - Lendows 2
-        - [Lendows 2](https://archive.org/download/pptoswiki-archive/Lendows%202.0.ppsm)
+        - [Lendows 2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%202%2FLendows%202.0.ppsm)
 
     - Lendows 1
-        - [Lendows 1.2](https://archive.org/download/pptoswiki-archive/Lendows%201.2.ppsm)
-        - [Lendows 1.1](https://archive.org/download/pptoswiki-archive/Lendows%201.1.ppsm)
-        - [Lendows 1.0](https://archive.org/download/pptoswiki-archive/Lendows%201.0.ppsm)
+        - [Lendows 1.2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.2.ppsm)
+        - [Lendows 1.1](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.1.ppsm)
+        - [Lendows 1.0](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.0.ppsm)
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
@@ -278,5 +278,9 @@
 
 - Messo OS
   - [Snowball Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Messo_OS/Snowflake.zip)
+
+- SioOS Nature
+  - [SioOS Nitro Lite Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Sio_OS/Sio_OS_Nitro-Lite_Beta.pptm)
+  - [SioOS Nitro Pro](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Sio_OS/Sio_OS_Nitro-Pro.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
