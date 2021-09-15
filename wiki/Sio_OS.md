@@ -14,7 +14,8 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | SioOS                         |
-| **First Release**         | Sio OS Nature                 |
+| **First Release**         | Sio OS Nitro Lite             |
+| **Motto**                 | Style with Smile              |
 | **Latest OS Development** | Sio OS Nature                 |
 | **Latest Stable Release** | /                             |
 
