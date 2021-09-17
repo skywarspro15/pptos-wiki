@@ -64,5 +64,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [TTOS](wiki/TTOS/) TTOS was a PowerPoint OS Family made by TTech in PowerPoint 2010
 - Messo OS
   - [Messo OS](wiki/Messo_OS/) Messo OS is the first PowerPoint OS from Messo OS
+- Faster714
+  - [SioOS](wiki/Sio_OS) Sio OS is a Family OS, including 2 Models.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

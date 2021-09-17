@@ -62,15 +62,15 @@ The first public Beta version of Lendows is the Beta 0.6 and was all based on Wi
     - Lendows 3
         - [Lendows 3.2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203.2.ppsm)
         - [Lendows 3.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/3/Lendows%203%20.1.ppsm)
-        - [Lendows 3](https://archive.org/download/pptoswiki-archive/Lendows%203.ppsm)
+        - [Lendows 3](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%203%2FLendows%203.ppsm)
 
     - Lendows 2
-        - [Lendows 2](https://archive.org/download/pptoswiki-archive/Lendows%202.0.ppsm)
+        - [Lendows 2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%202%2FLendows%202.0.ppsm)
 
     - Lendows 1
-        - [Lendows 1.2](https://archive.org/download/pptoswiki-archive/Lendows%201.2.ppsm)
-        - [Lendows 1.1](https://archive.org/download/pptoswiki-archive/Lendows%201.1.ppsm)
-        - [Lendows 1.0](https://archive.org/download/pptoswiki-archive/Lendows%201.0.ppsm)
+        - [Lendows 1.2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.2.ppsm)
+        - [Lendows 1.1](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.1.ppsm)
+        - [Lendows 1.0](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/PPTGAMES%2FLendows%2FLendows%201%2FLendows%201.0.ppsm)
 
     - Lendows Beta
         - [Lendows Beta 0.6](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Lendows/beta/Lendows%20Beta%200.6.ppsx)
