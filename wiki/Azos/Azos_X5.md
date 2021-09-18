@@ -8,7 +8,7 @@
 
 | <a href="https://user-images.githubusercontent.com/58103738/133892941-aa33296e-756b-42f9-b8e8-7b4d7b9cfd1e.png"><img height="250" alt="pfp" src="https://user-images.githubusercontent.com/58103738/133892941-aa33296e-756b-42f9-b8e8-7b4d7b9cfd1e.png" /></a>| |
 | ------------------------- | ----------------------------- |
-| **General Availability ** | Available now                 |
+| **General Availability**  | Available now                 |
 | **OS Family**             | Azos                          |
 | **Update Services**       | Ztore Updater                 |
 | **Platform Support**      | 32 bit and 64 bit             |

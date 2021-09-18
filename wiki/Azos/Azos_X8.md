@@ -8,7 +8,7 @@
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
-| **General Availability ** | Under development             |
+| **General Availability**  | Under development             |
 | **OS Family**             | Azos                          |
 | **Update Services**       | Ztore Updater                 |
 | **Platform Support**      | Unknown                       |
