@@ -7,7 +7,7 @@
 ## OneSlide
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://www.tcc.edu/wp-content/uploads/2019/05/icon-number-1.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/133878790-d3c69f07-faa9-4b13-9d98-f6efc98c316b.png" />
 </a>
 
 |                           |                               |
