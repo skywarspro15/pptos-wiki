@@ -8,6 +8,8 @@
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
 Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members.
 
+View the archive from 74 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
+
 Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.com/wiki/PPTOS_Wiki).
 
 ### Explore PPTOSes made by the community
@@ -67,5 +69,11 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Messo OS](wiki/Messo_OS/) Messo OS is the first PowerPoint OS from Messo OS
 - Faster714
   - [SioOS](wiki/Sio_OS) Sio OS is a Family OS, including 2 Models.
+- Midtown Technologies
+  - [Midtown OS](wiki/Midtown_OS)
+- JRM Technologies
+  - [JRM OS](wiki/JRM_OS) JRM OS is a family of OSes that began with JRM 1.0
+- Azos Technologies
+  - [Azos](wiki/Azos/) Azos was the name of the PowerPoint OS family made by Azos Technologies and Akbar Zudane Group subsidiaries.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
