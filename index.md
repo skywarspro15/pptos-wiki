@@ -40,7 +40,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   A powerful but lightweight PowerPoint OS.
 - [PPTGames](https://github.com/PPTGames)
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
-- Windsoft Technology
+- [Windsoft Technology](https://github.com/Windsoft01)
   - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
   - [Kind OS](wiki/Kind_OS) KindOS is a rebirth PowerPoint OS.
 - [Neonnew](https://github.com/neonnew)
