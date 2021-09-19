@@ -181,8 +181,11 @@
 - Starlite
   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
 
-- neonOS
-    - [neonOS Codename: Fluent](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
+- neonOS 
+  - neonOS Fluent
+    - [neonOS 1.2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/n10%2FneonOS%201.2.pptm) 
+    - [neonOS 1X 210820](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
+    - [neonOS_1X](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/n10%2FneonOS_1X.pptm) 
 
 - SimpleOS
   - [Version 1.0 (27th June 2021)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Simple_OS/simpleOS%201.0.pptm)
