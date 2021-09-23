@@ -155,6 +155,7 @@
   - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
   - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
   - [WindOS 6 Lion](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
+  - [WindOS 7.0(No available)]
 
 - Blade
   - [Strawberry A1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Blade/Strawberry_A1.0_0816.pptm)
@@ -177,6 +178,7 @@
   - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
   - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
   - [KindOS Quartz](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Quartz.pptm)
+  - [KindOS 7(No available)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_7.pptm)
 
 - Starlite
   - [Starlite_RTM_V1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Starlite/Starlite_RTM_V1.pptm)
