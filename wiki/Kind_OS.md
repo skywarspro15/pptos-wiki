@@ -7,7 +7,7 @@
 ## KindOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/130623531-07df11e0-5a42-4c10-8fa5-d0b7ceabe97b.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/132881572-ea9a6da4-4187-48eb-a8ef-034aeed76b06.png" />
 </a>
 
 |                           |                               |
@@ -16,7 +16,7 @@
 | **OS Family**             | KindOS                        |
 | **First OS Development**  | KindOS 1 alpha                |
 | **First Release**         | KindOS 1.0                    |
-| **Latest OS Development** | /                             |
+| **Latest OS Development** | KindOS 7.0                    |
 | **Latest Stable Release** | KindOS Quartz                 |
 
 ### KindOS
@@ -50,7 +50,7 @@ KindOS Quartz was the first have language change version of KndOS, this version 
 
 ### KindOS 7
 
-KindOS 7 was the seventh version of KindOS, the version was making.
+KindOS 7 was the seventh version of KindOS, the version was development.
 
 ### Logo
 
@@ -70,6 +70,7 @@ KindOS 7 was the seventh version of KindOS, the version was making.
   - [KindOS Marble](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Marble.pptm)
   - [KindOS MarbleS](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_MarbleS.pptm)
   - [KindOS Quartz](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_Quartz.pptm)
+  - [KindOS 7(No available)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Kind_OS/KindOS_7.pptm)
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
