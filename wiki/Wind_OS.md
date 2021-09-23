@@ -15,7 +15,7 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | WindOS                        |
 | **First Release**         | WindOS 1.X                    |
-| **Latest OS Development** | /                             |
+| **Latest OS Development** | WindOS 7.0                    |
 | **Latest Stable Release** | WindOS 6 Lion                 |
 
 ### WindOS
@@ -45,6 +45,10 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version rele
 ### WindOS 6.0 “Lion”
 
 WindOS 6.0 “Lion”(Codename: Lion) was the sixth version, this version released on September 10th on discord.
+
+### WindOS 7.0 
+
+WindOS 7.0(Codename: secret) was the sixth version, this version was development.
 
 ### Version Support
 
@@ -88,5 +92,6 @@ WindOS 6.0 “Lion”(Codename: Lion) was the sixth version, this version releas
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
     - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
     - [WindOS 6 Lion](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
+    - [WindOS 7.0(No available)]
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
