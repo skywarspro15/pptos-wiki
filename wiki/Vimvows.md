@@ -4,19 +4,19 @@
   </p>
 </blockquote>
 
-## Vimvows
+## Vimvows(Windsoft)
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
-| **OS Family**             | Vimvows                       |
+| **OS Family**             | Vimvows(Windsoft)             |
 | **First Release**         | Vimvows Metro FE              |
 | **Latest OS Development** | Vimvows MT2                   |
 | **Latest Stable Release** | Vimvows Metro U2              |
 
-### Vimvows
+### Vimvows(Windsoft)
 
-**Vimvows(Windsoft)** is copy by Vimvows of **Powersoft**. 
+**Vimvows(Windsoft)** is made by **Windsoft Technology**(Vimvows(Powersoft) wait powersoft add). 
 
 ### Vimvows Metro
 
@@ -28,7 +28,7 @@ Vimvows MT2 was the second version of Vimvows(Windsoft), this version was develo
 
 #### Downloads
 
-- Vimvows
+- Vimvows(Windsoft)
   - Vimvows Metro
     - [Metro RTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Vimvows/Vimvows%20Metro(FE).pptm)
     - [Metro Update1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Vimvows/Vimvows%20Metro(U1).pptm)
