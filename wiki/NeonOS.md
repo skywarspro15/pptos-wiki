@@ -63,10 +63,10 @@ neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
 
 #### Downloads
 
-- neonOS 
-  - neonOS Fluent
+- neonOS
+  -  Modern neonOS
     - [neonOS 1.2](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/n10%2FneonOS%201.2.pptm) 
-    - [neonOS 1X 210820](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
+    - [neonOS Bulid 210820](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/NeonOS/neonOS%201X%20210820.pptm)
     - [neonOS_1X](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/n10%2FneonOS_1X.pptm) 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
