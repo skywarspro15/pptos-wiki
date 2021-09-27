@@ -368,7 +368,7 @@
   - [Azos X7.pptm](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Azos%2FAzos%20X7.ppsm)
   - [Azos X8](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Azos%2FAzos%20X8.exe)
 
-- Vimvows
+- Vimvows(Windsoft)
   - Vimvows Metro
     - [Metro RTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Vimvows/Vimvows%20Metro(FE).pptm)
     - [Metro Update1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Vimvows/Vimvows%20Metro(U1).pptm)
