@@ -376,4 +376,10 @@
 
   - Vimvows MT2(Not available)
 
+- JupiterOS
+  - [JupiterOS 1.0 Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_411_Public_Beta.ppsx)
+  - [JupiterOS 1.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_511_Public_Release.ppsx)
+  - [JupiterOS 2.0 Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_521_Public_Beta.ppsx)
+  - [JupiterOS 2.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_621_Release.ppsx)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

@@ -76,5 +76,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [JRM OS](wiki/JRM_OS) JRM OS is a family of OSes that began with JRM 1.0
 - Azos Technologies
   - [Azos](wiki/Azos/) Azos was the name of the PowerPoint OS family made by Azos Technologies and Akbar Zudane Group subsidiaries.
+- GamerZingerBurger
+  - [JupiterOS](wiki/Jupiter_OS) JupiterOS is The OS Made by Jupiter Inc.
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
