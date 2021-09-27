@@ -31,6 +31,12 @@ JupiterOS 2 was the second version released again on discord.
 
 JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded
 
+#### Screenshots
+
+<a href="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png">
+  <img align="left" height="300" alt="pfp" src="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png" />
+</a>
+
 #### Downloads
 
 - JupiterOS
@@ -38,11 +44,5 @@ JupiterOS 3 is meant to be the most recent version of JOS but it has not been up
   - [JupiterOS 1.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_511_Public_Release.ppsx)
   - [JupiterOS 2.0 Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_521_Public_Beta.ppsx)
   - [JupiterOS 2.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_621_Release.ppsx)
-
-#### Screenshots
-
-<a href="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png">
-  <img align="left" height="300" alt="pfp" src="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png" />
-</a>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
