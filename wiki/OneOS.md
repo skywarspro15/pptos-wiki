@@ -20,7 +20,7 @@
 
 ### OneOS
 
-OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. This PPTOS will be the first open-source one slide PPTOS! 
+OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. This PPTOS will be the first open-source one slide PPTOS and have some movable window! 
 
 ### OneOS Codemane ????
 One ???? was development.
