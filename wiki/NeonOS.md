@@ -16,7 +16,7 @@
 | **OS Family**             | neonOS                        |
 | **First Release**         | Neon OS 0.0.1                 |
 | **Latest OS Development** | neonOS Codename: Fluent       |
-| **Latest Stable Release** | neonOS 1.2                    |
+| **Latest Stable Release** | neonOS 1X                     |
 
 ### About
 neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
@@ -52,10 +52,14 @@ neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
  - Updated Dashboard
  - Updated Dock
  - Updated Log in Screen
-### neonOS Codename: Fluent
+### neonOS Codename: Fluent (Bulid 210901)
  - Fluent Design
  - Updated Log in Screen
  - Updated Icons
+ - Added nTerminal
+### neonOS Codename: Fluent 2 (Bulid 210910)
+ - Removed nNews
+ - Updated Dock
 ## Screenshot
 
 > neonOS Codename: Fluent Desktop
