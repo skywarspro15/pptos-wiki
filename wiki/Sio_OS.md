@@ -7,7 +7,7 @@
 ## SioOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/133317162-d723339e-d845-4861-ae37-a2a56587cce4.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/135218048-78803f7a-ace9-4dbd-a856-ffe0a9360641.png" />
 </a>
 
 |                           |                               |
