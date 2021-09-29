@@ -14,16 +14,17 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | OneOS                         |
+| **First Beta Release**    | Build 10                      |
 | **First Release**         | No                            |
-| **Latest OS Development** | OneOS ????                    |
+| **Latest OS Development** | OneOS Potassium               |
 | **Latest Stable Release** | No                            |
 
 ### OneOS
 
 OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. This PPTOS will be the first open-source one slide PPTOS and have some movable window! 
 
-### OneOS Codemane ????
-One ???? was development.
+### OneOS Codemane Potassium
+OneOS Potassium was development.
 
 
 #### Screenshot
@@ -33,6 +34,6 @@ No screenshot(bc can't leak)
 #### Downloads
 
 - OneOS
-    - OneOS ????(can't leak)
+    - OneOS Potassium(can't leak)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
