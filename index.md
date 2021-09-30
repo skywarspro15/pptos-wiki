@@ -44,7 +44,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
   - [Kind OS](wiki/Kind_OS) KindOS is a rebirth PowerPoint OS.
   - [Vimvows(Windsoft)](wiki/Vimvows(Windsoft)) Vimvows Windsoft series is made by windsoft
-  - [OneOS](wiki/OneOS/index)
+  - [OneOS](wiki/OneOS/)
 - [Neonnew](https://github.com/neonnew)
   - [neonOS](wiki/NeonOS) 
 - [SwordCube Tech](https://github.com/swordcube)
