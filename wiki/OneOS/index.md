@@ -40,6 +40,6 @@ No screenshot(bc can't leak)
 #### Downloads
 
 - OneOS
-    - OneOS 1 Potassium beta(No availble)
+    - OneOS 1 Potassium beta(Not availble)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
