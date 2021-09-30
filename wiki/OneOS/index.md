@@ -23,8 +23,14 @@
 
 OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. This PPTOS will be the first open-source one slide PPTOS and have some movable window! 
 
-### OneOS Codemane Potassium
-OneOS Potassium was development.
+### OneOS Version
+
+|   Version   |    Codename       |      Build     | Release Date  |     State     |
+|-------------|-------------------|----------------|---------------|---------------|
+|   OneOS 1   |  Potassium(21M10) |        \       |       \       |  Development  |
+
+### OneOS 1 (Codename: Potassium)
+OneOS 1 (Codename: Potassium) was development.
 
 
 #### Screenshot
@@ -34,6 +40,6 @@ No screenshot(bc can't leak)
 #### Downloads
 
 - OneOS
-    - OneOS Potassium(can't leak)
+    - OneOS 1 Potassium beta(Not availble)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
