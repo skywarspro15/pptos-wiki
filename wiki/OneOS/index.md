@@ -27,15 +27,19 @@ OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. Thi
 
 |   Version   |    Codename       |      Build     | Release Date  |     State     |
 |-------------|-------------------|----------------|---------------|---------------|
-|   [OneOS 1](https://github.com/hexa-one/pptos-wiki/blob/gh-pages/wiki/OneOS/OneOS_History.md#oneos-1-codename-potassium)   |  Potassium(21M10) |        \       |       \       |  Development  |
+|   OneOS 1   |  Potassium |        40       |       \       |  Development  |
+|   OneOS 2   |  Calcium |        \       |       \       |  Development  |
 
 ### OneOS 1 (Codename: Potassium)
-OneOS 1 (Codename: Potassium) was development.
+OneOS 1 (Codename: Potassium) is first version by OneOS series, this version will in October 2nd.
 
+### OneOS 2 (Codename: Calcium)
+OneOS 2 (Codename: Calcium) is second version by OneOS series, this version was development.
 
 #### Screenshot
 
-No screenshot(bc can't leak)
+![1](https://user-images.githubusercontent.com/86305611/135621793-58b1aed7-4a26-445a-8bc7-00cc04786526.png)
+> OneOS 1 Potassium Desktop
 
 #### Downloads
 
