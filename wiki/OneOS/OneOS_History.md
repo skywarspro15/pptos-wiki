@@ -18,11 +18,12 @@
 
 ### OneOS Version
 
-|   Version   |    Codename       |      Build     | Release Date  |     State     |
+|   Version   |    Codename       |     RTM Build     | Release Date  |     State     |
 |-------------|-------------------|----------------|---------------|---------------|
-|   OneOS 1   |  Potassium(21M10) |        \       |       \       |  Development  |
+|   OneOS 1   |  Potassium |        40       |       \       |  Development  |
+|OneOS 2 | Calcium | \ | \ | Development |
 
-### OneOS 1 (Codename: Potassium)
+### OneOS 1
 
 |      Build     |       State       |    Features   |
 |----------------|-------------------|---------------|
@@ -30,7 +31,14 @@
 | 15 | Old development version, but supported | added about and added movable window system |
 | 20 | Old development version, but supported | added settings|
 | 30 | Old development version, but supported | added security |
-| 40 | Last development version| New Design |
+| 40 | Last development version| addede frosted glass material |
+
+### OneOS 2 
+
+|      Build     |       State       |    Features   |
+|----------------|-------------------|---------------|
+| 45 | Future development version | New Design |
+
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
 
