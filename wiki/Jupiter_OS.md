@@ -17,7 +17,7 @@
 
 ### JupiterOS
 
-JupiterOS is The OS Made by Jupiter Inc.
+JupiterOS is The OS Made by Jupiter Inc. JupiterOS Is Often referred as JOS
 
 ### JupiterOS 1.0
 
@@ -29,7 +29,7 @@ JupiterOS 2 was the second version released again on discord.
 
 ### JupiterOS 3.0
 
-JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded
+JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded However There Might Be A New Version Of JOS3
 
 #### Downloads
 
@@ -43,6 +43,6 @@ JupiterOS 3 is meant to be the most recent version of JOS but it has not been up
 
 | <a href="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png"><img height="300" alt="pfp" src="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png" /></a> |
 | - |
-| **Desktop - original** |
+| **Desktop - JupiterOS 1** |
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
