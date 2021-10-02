@@ -37,7 +37,8 @@
 
 |      Build     |       State       |    Features   |
 |----------------|-------------------|---------------|
-| 45 | Future development version | New Design |
+| 45 | Canceled development version | New Design |
+| 60 | Future development version | New Setup and New Design|
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
