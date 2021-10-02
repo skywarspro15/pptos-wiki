@@ -31,6 +31,10 @@ JupiterOS 2 was the second version released again on discord.
 
 JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded However There Might Be A New Version Of JOS3
 
+### JupiterOS 4.0 (Codename Lemon)
+Coming Soon :)
+
+
 #### Downloads
 
 - JupiterOS
