@@ -44,6 +44,6 @@ OneOS 2 (Codename: Calcium) is second version by OneOS series, this version was 
 #### Downloads
 
 - OneOS
-    - OneOS 1 Potassium beta(Not availble)
+    - [OneOS 1 Potassium beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/One_OS/OneOS_1.pptm)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
