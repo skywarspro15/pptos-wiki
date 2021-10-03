@@ -25,21 +25,20 @@
 
 ### OneOS 1
 
-|      Build     |       State       |    Features   |
-|----------------|-------------------|---------------|
-|        10      | Old development version, but supported |   added setup and added notepad   |
-| 15 | Old development version, but supported | added about and added movable window system |
-| 20 | Old development version, but supported | added settings|
-| 30 | Old development version, but supported | added security |
-| 40 | Last development version| addede frosted glass material |
+|      Build     |       State       |    Features   | Release Date |
+|----------------|-------------------|---------------|---|
+|        10      | Old development version, but supported |   added setup and added notepad   | September 28 (5:44 pm) |
+| 15 | Old development version, but supported | added about and added movable window system | September 28 (6:48 pm) |
+| 20 | Old development version, but supported | added settings| September 28 (10:09 pm) |
+| 30 | Old development version, but supported | added security | September 30 (5:52 pm) |
+| 40 | Last development version| addede frosted glass material | October 1 (12:56 am) |
 
 ### OneOS 2 
 
-|      Build     |       State       |    Features   |
-|----------------|-------------------|---------------|
-| 45 | Canceled development version | New Design |
-| 60 | Future development version | New Setup and New Design|
-
+|      Build     |       State       |    Features   | Release Date |
+|----------------|-------------------|---------------|--------------|
+| 45 | Canceled development version | New Design | \ |
+| 60 | Future development version | New Setup and New Design| \ |
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
 
