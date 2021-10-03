@@ -15,9 +15,9 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | OneOS                         |
 | **First Beta Release**    | Build 10                      |
-| **First Release**         | No                            |
-| **Latest OS Development** | OneOS Potassium               |
-| **Latest Stable Release** | No                            |
+| **First Release**         | OneOS Potassium               |
+| **Latest OS Development** | OneOS Calcium                 |
+| **Latest Stable Release** | OneOS Potassium               |
 
 ### OneOS
 
@@ -27,11 +27,11 @@ OneOS is only one slide the pptos, the PPTOS was inspired by Zulo and Rohan. Thi
 
 |   Version   |    Codename       |      Build     | Release Date  |     State     |
 |-------------|-------------------|----------------|---------------|---------------|
-|   OneOS 1   |  Potassium |        40       |       \       |  Development  |
+|   OneOS 1   |  Potassium |        40       |       \       |  Released  |
 |   OneOS 2   |  Calcium |        \       |       \       |  Development  |
 
 ### OneOS 1 (Codename: Potassium)
-OneOS 1 (Codename: Potassium) is first version by OneOS series, this version will in October 2nd.
+OneOS 1 (Codename: Potassium) is first version by OneOS series, this version released in October 3rd and in my discord server.
 
 ### OneOS 2 (Codename: Calcium)
 OneOS 2 (Codename: Calcium) is second version by OneOS series, this version was development.
@@ -41,9 +41,12 @@ OneOS 2 (Codename: Calcium) is second version by OneOS series, this version was 
 ![1](https://user-images.githubusercontent.com/86305611/135621793-58b1aed7-4a26-445a-8bc7-00cc04786526.png)
 > OneOS 1 Potassium Desktop
 
+![1](https://user-images.githubusercontent.com/86305611/135741685-1e763176-8779-41bf-97b4-434ee2120ccb.png)
+> OneOS 1 Potassium Picture
+
 #### Downloads
 
 - OneOS
-    - OneOS 1 Potassium beta(Not availble)
+    - OneOS 1 Potassium(please wait...)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
