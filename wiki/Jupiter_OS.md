@@ -6,6 +6,8 @@
 
 ## JupiterOS
 
+<a href="https://user-images.githubusercontent.com/86305611/135739394-45f798fb-d768-4b29-b6d4-a2d6ec59e05b.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/86305611/135739394-45f798fb-d768-4b29-b6d4-a2d6ec59e05b.png" /></a>
+
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
@@ -13,7 +15,7 @@
 | **First OS Development**  | JupiterOS Build 110           |
 | **First Release**         | JupiterOS1                    |
 | **Latest OS Development** | JupiterOS 4 (Codename Lemon)  |
-| **Latest Stable Release** | JupiterOS 3                   |
+| **Latest Stable Release** | JupiterOS 2                   |
 
 ### JupiterOS
 
@@ -25,15 +27,21 @@ JupiterOS 1 is the first version of JOS it was released On Discord
 
 ### JupiterOS 2.0
 
-JupiterOS 2 was the second version released again on discord.
+JupiterOS 2 was the second version of JOS and released again on discord.
 
 ### JupiterOS 3.0
 
-JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded However There Might Be A New Version Of JOS3
+JupiterOS 3 was the third version of JOS but it has not been release However There Might Be A New Version Of JOS3
 
 ### JupiterOS 4.0 (Codename Lemon)
-Coming Soon :)
 
+JupiterOS 4 Lemon was the forth version of JOS and was development.
+
+### Logo
+
+| <a href="https://user-images.githubusercontent.com/86305611/135739320-d0439157-7a31-47c7-8353-43522969396f.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/86305611/135739320-d0439157-7a31-47c7-8353-43522969396f.png" /></a> | <a href="https://user-images.githubusercontent.com/86305611/135739394-45f798fb-d768-4b29-b6d4-a2d6ec59e05b.png"><img height="70" alt="pfp" src="https://user-images.githubusercontent.com/86305611/135739394-45f798fb-d768-4b29-b6d4-a2d6ec59e05b.png" /></a> |
+|-|-|
+| **JOS 1 - 3** | **JOS 4 Lemon** |
 
 #### Downloads
 
