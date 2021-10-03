@@ -382,4 +382,7 @@
   - [JupiterOS 2.0 Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_521_Public_Beta.ppsx)
   - [JupiterOS 2.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_621_Release.ppsx)
 
+- OneOS
+    - [OneOS 1 Potassium beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/One_OS/OneOS_1.pptm)
+
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
