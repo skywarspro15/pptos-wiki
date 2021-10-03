@@ -33,6 +33,10 @@ JupiterOS 2 was the second version of JOS and released again on discord.
 
 JupiterOS 3 was the third version of JOS but it has not been release However There Might Be A New Version Of JOS3
 
+### JupiterOS X
+
+jupiterOS X was a collaboration with Windsoft Technology and like JOS3 was never released
+
 ### JupiterOS 4.0 (Codename Lemon)
 
 JupiterOS 4 Lemon was the forth version of JOS and was development.
