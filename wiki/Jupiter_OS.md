@@ -39,7 +39,7 @@ jupiterOS X was a collaboration with Windsoft Technology and like JOS3 was never
 
 ### JupiterOS 4.0 (Codename Lemon)
 
-JupiterOS 4 Lemon was the forth version of JOS and was development.
+JupiterOS 4 Lemon is the forth version of JOS and is in development.
 
 ### Logo
 
