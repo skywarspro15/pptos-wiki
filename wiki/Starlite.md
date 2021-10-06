@@ -10,7 +10,7 @@
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                | 
 | **First Release**         | Starlite RTM V1               |
-| **Latest OS Development** | Actively developed by Rohan   |
+| **Latest OS Development** | Discontinued Development      |
 | **Latest Stable Release** | Starlite RTM V1               |
 
 ### Starlite

@@ -14,15 +14,18 @@
 | ------------------------- | ----------------------------- |
 | **OS Family**             |  OneSlide Series              |
 | **First Release**         |  Beta Build 15                |
-| **Creator**               | Rohan                         |
-| **Released**              | No                            |
-| **Slides**                | 1                             |
+| **Creator**               |  Rohan                        |
+| **Released**              |  No                           |
+| **Slides**                |  1                            |
+| **Stage of Development**  |  Extended Beta Testing        |
 
 ### OneSlide
 
 OneSlide is a project started by Rohan to make a one slide PPTOS. The PPTOS was inspired by Zulo. OneSlide is still in
 development. This PPTOS will be the second closed-source one slide PPTOS. Most work is being focused at Zixon (il add later
-to the wiki). OneSlide will not have SKUs probably. The OS will feature a semi-update system.
+to the wiki). OneSlide will not have SKUs probably. The OS will feature a check for update system. Currently, OneSlide is being 
+overhauled with its design. OneSlide is currently in Extended Beta Testing, so you can expect a preview (not the RTM) to be avalible soon!
+
 
 ### OneSlide Betas
 
