@@ -14,6 +14,21 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 
 ### Explore PPTOSes made by the community
 
+#### Popular
+
+<blockquote style="margin: 0 440px 20px 20px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid rgb(0,102,153,0.3);background: linear-gradient(#f1f1f1, #DEDEDE 15px);height: 80px;">
+  <p style=""><a style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">ZeqOS Chabazite U5</a>
+
+  </p><p style=""><a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">3.9mb</a>
+  </p>
+<div></div><div></div><blockquote style="margin: -20 440px 20px 20px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid rgb(0,102,153,0.3);background: linear-gradient(#f1f1f1, #DEDEDE 15px);height: 80px;margin-top: -103.4px;margin-left: 240px;width: 180px;">
+  <p style=""><a style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Windows 95 PPT</a>
+  </p><p style=""><a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://archive.org/download/pptoswiki_archive_26_09_2021/pptoswiki_archive_26_09_2021.zip/Project_PowerPoint%2FWindows95PPT1000.pptm">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">154mb</a>
+  </p>
+<div></div><div></div></blockquote></blockquote>
+
+#### List
+
 - Nestor Page
   - [Nestor OS](wiki/Nestor_OS)
   A veteran PowerPoint OS.
