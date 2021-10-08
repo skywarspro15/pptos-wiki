@@ -21,11 +21,11 @@
 
 ### SioOS
 
-Sio OS Nature is currently under development.
+Sio OS Was founded in july 14, 2020. The owner's name was faster714
 
 #### Downloads
 
-- SioOS Nature
+- Sio OS Nitro Series
   - [SioOS Nitro Lite Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Sio_OS/Sio_OS_Nitro-Lite_Beta.pptm)
   - [SioOS Nitro Pro](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Sio_OS/Sio_OS_Nitro-Pro.pptm)
 
