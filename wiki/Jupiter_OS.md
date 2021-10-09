@@ -58,8 +58,9 @@ JupiterOS 4 Lemon is the forth version of JOS and is in development.
 #### Download JupiterOS Software (Outside Of JupiterOS Store)
 
 - BonBonStudiosEditor
- - Not Realeased
- - 
+  Not Realeased
+
+
 #### Screenshots
 
 | <a href="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png"><img height="300" alt="pfp" src="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png" /></a> |
