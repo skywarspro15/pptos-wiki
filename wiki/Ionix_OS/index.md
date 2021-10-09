@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## Ionix OS 2
+## Ionix
 
 <a>
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/136655782-41927202-0c8a-40e4-bd08-296868275a6a.png" />

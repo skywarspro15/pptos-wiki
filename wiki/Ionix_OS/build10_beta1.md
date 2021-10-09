@@ -13,6 +13,6 @@
 </style>
 
 
-<iframe src="https://olvp-my.sharepoint.com/personal/quinten_vandamme_vlot_be/_layouts/15/Doc.aspx?sourcedoc={55dadc3c-00c3-4543-8ac8-08d5fac484d7}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="border-radius: 10px;" width="1186px" height="691px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=16821AA64F001EEF&resid=16821AA64F001EEF%2116520&authkey=AJj2AyupQpRSeXQ&em=2" style="border-radius: 10px;" width="1186px" height="691px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

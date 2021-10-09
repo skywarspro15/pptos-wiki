@@ -97,7 +97,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - GamerZingerBurger
   - [JupiterOS](wiki/Jupiter_OS) JupiterOS is The OS Made by Jupiter Inc.
 - [Hexa](https://github.com/hexa-one)
-  - [Ionix 2](wiki/Ionix_OS/)
+  - [Ionix](wiki/Ionix_OS/)
 - Chara Dremurr
   - [Phoenix](wiki/Phoenix)
 
