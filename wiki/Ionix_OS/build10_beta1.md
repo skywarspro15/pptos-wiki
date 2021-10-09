@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## IonixOS build10 (Beta1)
+## Ionix 2 build10 (Beta1)
 
 <style>
  .wrapper {

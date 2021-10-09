@@ -46,8 +46,8 @@ Ionix 2 Beta 2 came with some small changes to the desktop and icons as well as 
       - [Ionix Beta 2 Project Arcturus](https://archive.org/download/pptoswiki_archive_26_09_2021/pptoswiki_archive_26_09_2021.zip/hexa%2FProject_Arcturus_ionix_os_beta_2.pptm)
 
     - Ionix 2
-      - [Ionix 2 Beta 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build20-beta2-lock.pptm) [Viewᵇᵉᵗᵃ](build20_beta2)
-      - [Ionix 2 Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build10-beta1-lock.pptm) [Viewᵇᵉᵗᵃ](build10_beta1)
+      - [Ionix 2 Beta 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build20-beta2-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](build20_beta2)
+      - [Ionix 2 Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build10-beta1-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](build10_beta1)
 
 #### Screenshots
 
