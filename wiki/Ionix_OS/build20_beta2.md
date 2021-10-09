@@ -6,6 +6,13 @@
 
 ## IonixOS build20 (Beta2)
 
-<iframe src="https://olvp-my.sharepoint.com/personal/quinten_vandamme_vlot_be/_layouts/15/Doc.aspx?sourcedoc={bb746a4e-bc77-44d1-bfae-469df7d97bca}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<style>
+ .wrapper {
+  width : 95%;
+ }
+</style>
+
+
+<iframe src="https://olvp-my.sharepoint.com/personal/quinten_vandamme_vlot_be/_layouts/15/Doc.aspx?sourcedoc={bb746a4e-bc77-44d1-bfae-469df7d97bca}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="border-radius: 10px;" width="1186px" height="691px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
