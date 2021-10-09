@@ -69,7 +69,7 @@ To be added.
 Missing build downloads can be found in their respective page.
 
 - zeqOS Chabazite
-  - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5)
   - [zeqOS_Chabazite_B155_B02_U4_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U4_R.pptm)
   - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
   - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)

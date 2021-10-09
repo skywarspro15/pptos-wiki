@@ -26,7 +26,7 @@
 
 - zeqOS
     - zeqOS Chabazite
-      - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)
+      - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5)
       - [zeqOS_Chabazite_B155_B02_U4_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U4_R.pptm)
       - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
       - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)
@@ -391,7 +391,7 @@
       - [Ionix Beta 2 Project Arcturus](https://archive.org/download/pptoswiki_archive_26_09_2021/pptoswiki_archive_26_09_2021.zip/hexa%2FProject_Arcturus_ionix_os_beta_2.pptm)
 
     - Ionix 2
-      - [Ionix 2 Beta 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build20-beta2-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](build20_beta2)
-      - [Ionix 2 Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build10-beta1-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](build10_beta1)
+      - [Ionix 2 Beta 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build20-beta2-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Ionix_OS/build20_beta2)
+      - [Ionix 2 Beta 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Ionix_OS/build10-beta1-lock.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Ionix_OS/build10_beta1)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
