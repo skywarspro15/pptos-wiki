@@ -10,6 +10,8 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 
 View the archive from 74 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
 
+Check out the online ppt viewer (Beta) [here](wiki/Ionix_OS/build20_beta2.html).
+
 Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.com/wiki/PPTOS_Wiki).
 
 ### Explore PPTOSes made by the community
@@ -95,7 +97,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - GamerZingerBurger
   - [JupiterOS](wiki/Jupiter_OS) JupiterOS is The OS Made by Jupiter Inc.
 - [Hexa](https://github.com/hexa-one)
-  - [Ionix 2 playground](wiki/Ionix_OS/build20_beta2.html)
+  - [Ionix 2](wiki/Ionix_OS/)
 - Chara Dremurr
   - [Phoenix](wiki/Phoenix)
 
