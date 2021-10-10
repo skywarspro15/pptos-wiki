@@ -81,7 +81,7 @@
       - [nsUI v0.1 [ENG]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Nestor_OS/nsUI/nsUI%20v0.1%20%5BENG%5D.pptm)
 
 - Orbit OS
-  - [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Project_PowerPoint%2FOrbit%20OS%20GoldSmith%20Release%201.0%2030th%20June%202019.pptm)
+  - [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Project_PowerPoint%2FOrbit%20OS%20GoldSmith%20Release%201.0%2030th%20June%202019.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Orbit_OS/OrbitOS_Goldsmith)
   - [Foundation 0.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
 
 - Aster OS
