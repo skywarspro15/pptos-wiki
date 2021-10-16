@@ -107,8 +107,9 @@ Missing build downloads can be found in their respective page.
 
 #### Videos
 
-<iframe src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Chabazite%20_%20Everything%20new%20_%20PowerPoint%20OS-gsUsA7E4_bs.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
-<iframe src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Natrolite%20PowerPoint%20OS%20_%20Movable%20Windows%20_%20Advanced%20PPTOS-zJvO6dAL_3E.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
-<iframe src="https://archive.org/embed/pptoswiki-video/zulo/zeqOS%20Makalu%20_%20PowerPoint%20Operating%20System%28PPTOS%29-KLo0D9H2rWo.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
+<iframe src="https://archive.org/embed/pptoswiki_video/zeqos/yt5s.com-zeqOS%20Chabazite%20_%20Everything%20new%20_%20PowerPoint%20OS-%281080p60%29.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
+<iframe src="https://archive.org/embed/pptoswiki_video/zeqos/zeqOS%20Natrolite%20PowerPoint%20OS%20_%20Movable%20Windows%20_%20Advanced%20PPTOS-zJvO6dAL_3E.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
+<iframe src="https://archive.org/embed/pptoswiki_video/zeqos/yt5s.com-zeqOS%20Rhodonite%20PPTOS%20_%20Event%20Part%201-%281080p60%29.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
+<iframe src="https://archive.org/embed/pptoswiki_video/zeqos/zeqOS%20Makalu%20_%20PowerPoint%20Operating%20System%28PPTOS%29-KLo0D9H2rWo.mp4" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" width="320" height="240" frameborder="0" style="border-radius: 10px;"></iframe>
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
