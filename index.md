@@ -10,7 +10,7 @@ Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk wit
 
 View the archive from 74 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
 
-Check out the online ppt viewer (Beta) [here](https://hexa-one.github.io/pptos-wiki/viewer/Ionix_OS/build20_beta2).
+Check out ZeqOS Chabazite U5 online (Beta) [here](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5).
 
 Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.com/wiki/PPTOS_Wiki).
 
