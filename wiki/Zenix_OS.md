@@ -35,7 +35,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
 #### Downloads & Screenshots
 <blockquote>
   <a style="color: #222;">Zenix Os Centra</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/">/</a>
-  <img src="https://cdn.discordapp.com/attachments/886931439050956851/900376555807723560/unknown.png">
+  <img src="https://user-images.githubusercontent.com/58103738/138119288-f2c47d60-ce20-4ec1-a364-6e5dc23e641e.png">
 </blockquote>
 <blockquote>
   <a style="color: #222;">Zenix Os Star Strike</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/">/</a>
