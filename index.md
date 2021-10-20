@@ -8,9 +8,11 @@
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
 Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members.
 
-View the archive from 74 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
+- View the archive from 78 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
 
-Check out ZeqOS Chabazite U5 online (Beta) [here](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5).
+- View the archived pptos videos [here](https://archive.org/details/pptoswiki_video).
+
+- Check out ZeqOS Chabazite U5 online (Beta) [here](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5).
 
 Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.com/wiki/PPTOS_Wiki).
 
