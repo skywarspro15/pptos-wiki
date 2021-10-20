@@ -33,7 +33,10 @@ Downloads and preview are available bellow go check it out and big shout out to 
 you can go check their YouTube channels or searching #powerpointos. alr thats all Thank you everyone :D
 
 #### Downloads & Screenshots
-
+<blockquote>
+  <a style="color: #222;">Zenix Os Centra</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/">/</a>
+  <img src="https://cdn.discordapp.com/attachments/886931439050956851/900376555807723560/unknown.png">
+</blockquote>
 <blockquote>
   <a style="color: #222;">Zenix Os Star Strike</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/">/</a>
   <img src="https://user-images.githubusercontent.com/58103738/129167796-70aabc64-396d-4fe6-9a90-e1d5919dd933.png" alt="11">
@@ -64,6 +67,15 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>Start Menu</p>
 </blockquote>
 <blockquote>
+      <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
+  <img src="https://user-images.githubusercontent.com/58103738/129173943-c43b1f0d-f7a9-499b-b439-da59e2ea2219.png" alt="11">
+  <p>Zenix OS Atom Original (Canceled) desktop</p>
+  <img src="https://user-images.githubusercontent.com/58103738/129173976-2c1bf551-9c15-4e54-993a-7c22c2cfe692.png" alt="11">
+  <p>Start menu</p>
+  <img src="https://user-images.githubusercontent.com/58103738/129173990-7aa69b73-ea56-44b9-acf7-d4886d763279.png" alt="11">
+  <p>word app</p>
+</blockquote>
+<blockquotes>
   <a style="color: #222;">Coupertino (Pre Atom)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Cupertino.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129169947-50723ff3-71a1-4166-963d-0faddc49020e.png" alt="11">
   <p>Coupertino (Pre Atom) beta Setup</p>
@@ -124,13 +136,5 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>start menu Final</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
-  <img src="https://user-images.githubusercontent.com/58103738/129173943-c43b1f0d-f7a9-499b-b439-da59e2ea2219.png" alt="11">
-  <p>Zenix OS Atom Original (Canceled) desktop</p>
-  <img src="https://user-images.githubusercontent.com/58103738/129173976-2c1bf551-9c15-4e54-993a-7c22c2cfe692.png" alt="11">
-  <p>Start menu</p>
-  <img src="https://user-images.githubusercontent.com/58103738/129173990-7aa69b73-ea56-44b9-acf7-d4886d763279.png" alt="11">
-  <p>word app</p>
-</blockquote>
-
+ 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
