@@ -98,7 +98,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [Azos](wiki/Azos/) Azos was the name of the PowerPoint OS family made by Azos Technologies and Akbar Zudane Group subsidiaries.
 - GamerZingerBurger
   - [JupiterOS](wiki/Jupiter_OS) JupiterOS is The OS Made by Jupiter Inc.
-  - [Windows11S](wiki/Windows11S)
+  - [DoorsOS](wiki/Doors_OS)
 - [Hexa](https://github.com/hexa-one)
   - [Ionix](wiki/Ionix_OS/)
 - Chara Dremurr
