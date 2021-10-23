@@ -4,13 +4,13 @@
   </p>
 </blockquote>
 
-## Windows11S
+## DoorsOS
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint                    |
-| **OS Family**             | bGZB Windows PowerPoint       |
-| **First OS Development**  | win11 beta                    |
+| **OS Family**             | Doors                         |
+| **First OS Development**  | win11S beta                    |
 | **First Release**         | still in beta                 |
-| **Latest OS Development** | buildos 1                     |
+| **Latest OS Development** | Doors1.0 Builf                    |
 | **Latest Stable Release** | /                             |
