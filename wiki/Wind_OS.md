@@ -112,6 +112,6 @@ WindOS 7.0(Codename: secret) was the sixth version, this version was development
     - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
     - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
     - [WindOS 6 Lion](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
-    - [WindOS 7.0(No available)]
+    - [WindOS 7.0(Not available)]
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
