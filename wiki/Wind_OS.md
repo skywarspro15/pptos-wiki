@@ -46,6 +46,10 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version rele
 
 WindOS 6.0 “Lion”(Codename: Lion) was the sixth version, this version released on September 10th on discord.
 
+### WindOS Lion Pro (6.2)
+
+WindOS Lion Pro (6.2) was a branch for WindOS 6 Lion, this version was development.
+
 ### WindOS 7.0 
 
 WindOS 7.0(Codename: secret) was the sixth version, this version was development.
@@ -60,6 +64,19 @@ WindOS 7.0(Codename: secret) was the sixth version, this version was development
 | **WindOS 2021**           | 2021-09-03(end of support)    |
 | **WindOS 5 Tiger**        | 2021-09-17(supported)         |
 | **WindOS 6 Lion**        | /        |
+
+### Version
+
+| Version | RTM Build | Logo |
+|---------|---|------|
+| WindOS 1.X | 1.0.0 | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139008214-f44170f7-bfb8-4e18-b283-98c6de87a833.png" /> |
+| WindOS 2.X | 2.210730.U1 | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139008438-4f50ffd5-77bc-40f9-9b17-1ac4722b3646.png" /> |
+| WindOS RD | 3.210801 | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139008822-299e14af-d0fd-4e36-9f8b-d63f9b7f2f30.png" /> |
+| WindOS 2021 |4.210805.U1　|  <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139008872-8b1265c5-f31f-4a86-bc20-da0627c878f1.png" /> |
+| WindOS 5 Tiger | 5.0.210824.U3 | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139009021-cab259d0-c59e-42b2-af6e-1a5719d4cb78.png" /> |
+| WindOS 6 Lion | 6.0.210914.10 | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139009062-f04e3c7b-8a61-4060-9fd8-44556d2ce223.png" /> |
+| WindOS Lion Pro | / | <img align="left" height="50" alt="pfp" src= "https://user-images.githubusercontent.com/86305611/139009581-61731754-d7d7-4579-8acb-e18fbb73de50.png" /> |
+| WindOS 7 | / | pls wait |
 
 #### Screenshot
 
@@ -80,6 +97,9 @@ WindOS 7.0(Codename: secret) was the sixth version, this version was development
 
 > WindOS 2021 Desktop
 ![6](https://user-images.githubusercontent.com/58103738/130486276-233d5936-7cc9-4ed0-8504-7f42940edab9.png)
+
+> WindOS Lion Pro (6.2)
+![7](https://user-images.githubusercontent.com/86305611/139006602-ef8ac7be-1394-4d8f-8921-51dfdc277088.PNG)
 
 
 #### Downloads
