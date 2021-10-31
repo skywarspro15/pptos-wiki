@@ -31,7 +31,7 @@ JupiterOS 2 was the second version of JOS and released again on discord.
 
 ### JupiterOS 3.0
 
-JupiterOS 3 was the third version of JOS but it has not been release as it is unstable. However There is a new version coming soon
+JupiterOS 3 was the third version of JOS However The Original Version Was Unstable But It Has Been Re-Released On The Jupiter Inc. Discord Only And will soon be avalible on the wiki
 
 ### JupiterOS X
 
