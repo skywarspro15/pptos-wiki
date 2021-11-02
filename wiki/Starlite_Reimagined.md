@@ -6,10 +6,6 @@
 
 ## Starlite Reimagined
 
-<a>
-  <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
-</a>
-
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                | 
