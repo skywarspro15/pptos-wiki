@@ -22,7 +22,6 @@ to take its place as one of Rohan's public PPTOSes.
 
 No versions avalible
 
-
 #### Screenshot
 
 > Starlite Reimagined screen
@@ -32,7 +31,7 @@ No versions avalible
 #### Downloads
 
 - No downloads
-    - Downloads will be added here when avalible
+    - Downloads will be added here when available.
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
