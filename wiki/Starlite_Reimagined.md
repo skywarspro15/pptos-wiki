@@ -25,7 +25,7 @@ No versions avalible
 
 #### Screenshot
 
-> YourOS 1.0 Desktop
+> Starlite Reimagined screen
 ![1](https://cdn.discordapp.com/attachments/893856086828941312/905148498167607346/unknown.png)
 
 
