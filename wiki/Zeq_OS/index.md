@@ -6,6 +6,9 @@
 
 ## zeqOS
 
+
+
+
 <a>
   <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/139922147-abbfa0f4-a006-4a71-be4c-6a5e57cdaaed.png" />
 </a><a href="https://user-images.githubusercontent.com/58103738/128864791-d81ba4bc-c39c-4069-afb8-3a331f487bc3.png">view old logo</a>
@@ -63,6 +66,14 @@ To be added.
 
 ## zeqOS Makalu
 To be added.
+
+#### Logo's (Zulo)
+
+| logo origin               |  logo                         |  date                         |
+| ------------------------- | ----------------------------- | ----------------------------- |
+| **Server**                | ![image](https://user-images.githubusercontent.com/58103738/139922575-78cbcf0c-3a2d-43ce-866b-a79a53042aea.png)| 2/11/2021 - ? |
+| **User**                  | ![image](https://user-images.githubusercontent.com/58103738/139922147-abbfa0f4-a006-4a71-be4c-6a5e57cdaaed.png)| 2/11/2021 - ? |
+| **User**                  | ![image](https://user-images.githubusercontent.com/58103738/128864791-d81ba4bc-c39c-4069-afb8-3a331f487bc3.png)| ? - 2/11/2021 |
 
 #### Downloads
 
