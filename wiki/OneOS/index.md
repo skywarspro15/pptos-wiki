@@ -7,7 +7,7 @@
 ## OneOS
 
 <a>
-  <img align="left" height="40" alt="pfp" src="https://user-images.githubusercontent.com/58103738/135129889-a2f33e88-137b-483c-907d-4ebe0f440325.png" />
+  <img align="left" height="90" alt="pfp" src="https://user-images.githubusercontent.com/86305611/140633284-c0b9ded8-1842-4d7f-9ba1-aa7dcdc416ca.png" />
 </a>
 
 |                           |                               |
