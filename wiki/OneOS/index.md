@@ -36,6 +36,12 @@ OneOS 1 (Codename: Potassium) is first version by OneOS series, this version rel
 ### OneOS 2 (Codename: Calcium)
 OneOS 2 (Codename: Calcium) is second version by OneOS series, this version was development.
 
+#### Logo
+
+|<a><img height="40" alt="pfp" src="https://user-images.githubusercontent.com/58103738/135129889-a2f33e88-137b-483c-907d-4ebe0f440325.png" /></a>|<a><img height="90" alt="pfp" src="https://user-images.githubusercontent.com/86305611/140633284-c0b9ded8-1842-4d7f-9ba1-aa7dcdc416ca.png" /></a>|
+| - | - |
+|Old logo|New logo|
+
 #### Screenshot
 
 ![1](https://user-images.githubusercontent.com/86305611/135621793-58b1aed7-4a26-445a-8bc7-00cc04786526.png)
