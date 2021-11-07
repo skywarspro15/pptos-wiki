@@ -7,7 +7,7 @@
 ## neonOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://commons.wikimedia.org/wiki/File:NeonOS.png" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/140642490-737bffe9-593e-40ca-a81d-a3b72843c6cf.png" />
 </a>
 
 |                           |                               |
@@ -17,6 +17,7 @@
 | **First Release**         | Neon OS 0.0.1                 |
 | **Latest OS Development** | neonOS 2 Preview (Codename : NovSnap) |
 | **Latest Stable Release** | neonOS 1X                     |
+![140642490-737bffe9-593e-40ca-a81d-a3b72843c6cf](https://user-images.githubusercontent.com/58103738/140642518-bbe73423-4c5e-4378-9c78-52926ade80a4.png)
 
 ### About
 neonOS is the new PPTOS and a pretty good PPTOS because now it have VBA.
@@ -60,7 +61,14 @@ neonOS is the new PPTOS and a pretty good PPTOS because now it have VBA.
 ### neonOS Codename: Fluent 2 (Bulid 210910)
  - Removed nNews
  - Updated Dock
-## Screenshot
+
+#### Logo
+
+|<a><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131006998-2e8d0749-85c0-482c-97cf-2d403d50426d.png" /></a>|<a><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/140642490-737bffe9-593e-40ca-a81d-a3b72843c6cf.png" /></a>|
+| - | - |
+|Old logo|New logo|
+
+#### Screenshot
 
 > neonOS Codename: Fluent Desktop
 ![1](https://user-images.githubusercontent.com/58103738/130749667-1b34ccb8-d9b9-40e8-9769-5f5870135457.png)
