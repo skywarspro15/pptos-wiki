@@ -7,7 +7,7 @@
 ## neonOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131006998-2e8d0749-85c0-482c-97cf-2d403d50426d.png" />
+  <img align="left" height="100" alt="pfp" src="https://commons.wikimedia.org/wiki/File:NeonOS.png" />
 </a>
 
 |                           |                               |
@@ -15,11 +15,11 @@
 | **Programmed In**         | PowerPoint                    |
 | **OS Family**             | neonOS                        |
 | **First Release**         | Neon OS 0.0.1                 |
-| **Latest OS Development** | neonOS Codename: Fluent       |
+| **Latest OS Development** | neonOS 2 Preview (Codename : NovSnap) |
 | **Latest Stable Release** | neonOS 1X                     |
 
 ### About
-neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
+neonOS is the new PPTOS and a pretty good PPTOS because now it have VBA.
 ## History
 ### neonOS 0.0.1 (Bulid 210529)
  - Added Setting, About and Personalize
