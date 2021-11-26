@@ -21,19 +21,21 @@
 ### PowerUI
 
 PowerUI is an operating system, with the best user experience in mind. 
-It's fast, and reliable. You can expect apps to open all the time, or to fix bugs once they're reported. 
+It's fast, and reliable. You can expect apps to open all the time, and features are tested to make sure there's little to no bugs or glitches at all. 
 User generated experiences from our online platforms are checked and tested to make sure it's safe to use.
-Features such as a store, an update system are rarely on OSes(based on my experience), and PowerPartners would only get the innovations like these from PowerUI.
+Features such as a store, an update system are rarely on OSes(based on our experience), and PowerPartners would only get the innovations like these from PowerUI.
 
-### YourOS 1.0
+### PowerUI ProRes
 
-About 1.0.
+Coming soon! PowerUI ProRes is one of the biggest design changes with PowerUI. With transparency effects, multitasking, and more, while affecting little to no performance at all! 
 
-
+**Introducing:** **System Restore!**
+Broke something on the OS? This new System Restore tool would help you restore the operating system, without losing data!
 #### Screenshot
 
-> YourOS 1.0 Desktop
-![1](https://upload.wikimedia.org/wikipedia/commons/d/d1/VirtualBox_HaikuOS_R1B2_54154_111_ENG_01_03_2021_18_32_37.png)
+> PowerUI ProRes - Desktop
+> 
+![1](https://user-images.githubusercontent.com/86519653/143559201-f93a058a-d9f7-451f-a3a4-1c248bec48f9.png)
 
 
 #### Downloads
