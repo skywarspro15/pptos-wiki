@@ -4,7 +4,7 @@
   </p>
 </blockquote>
 
-## YourOS
+## PowerUI
 
 <a>
   <img align="left" height="100" alt="pfp" src="https://i.pinimg.com/474x/80/53/27/805327d9477b489e732e0b0247b7f73f.jpg" />
@@ -13,14 +13,17 @@
 |                           |                               |
 | ------------------------- | ----------------------------- |
 | **Programmed In**         | PowerPoint VBA                |
-| **OS Family**             |                               |
-| **First Release**         |                               |
-| **Latest OS Development** |                               |
-| **Latest Stable Release** |                               |
+| **OS Family**             | PowerUI                       |
+| **First Release**         | October 9th, 2021             |
+| **Latest OS Development** | PowerUI ProRes                |
+| **Latest Stable Release** | PowerUI Rev 3.2               |
 
-### YourOS
+### PowerUI
 
-About youros .
+PowerUI is an operating system, with the best user experience in mind. 
+It's fast, and reliable. You can expect apps to open all the time, or to fix bugs once they're reported. 
+User generated experiences from our online platforms are checked and tested to make sure it's safe to use.
+Features such as a store, an update system are rarely on OSes(based on my experience), and PowerPartners would only get the innovations like these from PowerUI.
 
 ### YourOS 1.0
 
